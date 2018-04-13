@@ -28,7 +28,7 @@ I client Microsoft Office Outlook 2007 tentano di connettersi al servizio di ind
 4.  Utilizzo di un record SRV  
 
 
-> [!NOTA]
+> [!NOTE]
 > Questo deve essere considerato solo un errore se si intende configurare il proprio ambiente in modo che il percorso di individuazione automatica della directory virtuale sul server Accesso client venga trovato tramite un record SRV.
 
 
