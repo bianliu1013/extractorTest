@@ -76,7 +76,7 @@ La causa più comune di questo errore è l'utilizzo di un nome utente o una pass
     4.  Fare clic sulla scheda **Protezione directory**, quindi selezionare il pulsante **Modifica** sotto **Controllo autenticazione e accesso**.  
     5.  Verificare che la casella di controllo **Autenticazione integrata di Windows** sia selezionata.  
 
-        > [!NOTA]
+        > [!NOTE]
         > Se la casella di controllo è selezionata, la modifica apportata nel Gestore di sistema di Exchange è stata correttamente replicata nel metabase sul server Exchange.
 
 

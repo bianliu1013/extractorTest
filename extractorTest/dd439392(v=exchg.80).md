@@ -37,7 +37,7 @@ Per risolvere il problema, fare quanto segue:
   - Se si riceve l'errore sulla porta 6004 e si utilizza Exchange 2007 su Windows Server 2008, verificare che sia installato Exchange 2007 SP1 RU4 o versione successiva. È infatti presente un problema di IPv6 che può impedire l'esecuzione delle richieste DSProxy e generare questo errore. Per ulteriori informazioni su questo specifico problema, vedere Articolo della Microsoft Knowledge Base, "[Vengono chieste le credenziali dell'utente tre volte e viene visualizzato un messaggio di errore quando si utilizza la funzione Outlook via Internet per connettersi a un server di Exchange Server 2007 Service Pack 1 su cui è in esecuzione Windows Server 2008](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=950138)".  
 
 
-> [!NOTA]
+> [!NOTE]
 > La modifica del valore ValidPorts non si applica a Microsoft Exchange Server 2010. In Exchange 2010, il valore del Registro di sistema è ValidPorts_Exchange. Tale valore non deve essere modificato manualmente, perché viene creato dalla configurazione automatica nelle impostazioni del server Accesso Client.
 
 

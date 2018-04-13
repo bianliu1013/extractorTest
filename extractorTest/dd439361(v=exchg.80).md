@@ -29,7 +29,7 @@ Questo errore impedisce agli utenti di connettersi al servizio specificato.
 Il motivo principale per cui viene segnalato questo errore è quando si esegue la verifica Exchange ActiveSync e Autenticazione integrata di Windows è annunciata dal server. Autenticazione integrata di Windows non è un metodo di autenticazione supportato per Exchange ActiveSync e può impedire ai dispositivi Windows Mobile precedenti a Windows Mobile 6.0 di connettersi.
 
 
-> [!NOTA]
+> [!NOTE]
 > Se si utilizza ISA Server per eseguire la preautenticazione, Autenticazione integrata potrebbe essere abilitata su Listener Web. Se non si prevede di supportare dispositivi precedenti a Windows Mobile 6.0 (o se non si riscontrano problemi), questo errore può essere ignorato.
 
 

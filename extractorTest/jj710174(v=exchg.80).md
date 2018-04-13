@@ -21,7 +21,7 @@ Lo strumento Analizzatore connettività remota di Microsoft Exchange individua e
 L'errore di accesso negato provoca problemi che interessano le ricerche sui dati di disponibilità cross-premise, oltre ad altri problemi a livello di altre funzionalità cross-premise. Per risolvere questo problema, utilizzare un orologio affidabile per i server nell'ambiente e impostare l'ora di sistema sui valori corretti.
 
 
-> [!NOTA]
+> [!NOTE]
 > Se si sta creando una relazione di trust federativa, per gli stessi motivi indicati in precedenza è possibile che si riceva il seguente messaggio di errore: 1007 AccessDenied: Accesso negato.
 
 

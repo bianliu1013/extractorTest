@@ -43,7 +43,7 @@ Chi non utilizza Office 365 può trovare informazioni sui seguenti siti Web Micr
 È anche possibile utilizzare ulteriori informazioni sullo strumento Analizzatore connettività remota sul [forum](http://social.technet.microsoft.com/forums/it-it/exrca/threads).
 
 
-> [!NOTA]
+> [!NOTE]
 > Al momento questo forum è sospeso. Tuttavia, gli argomenti pubblicati su questo forum sono disponibili in <A href="http://social.technet.microsoft.com/forums/it-it/exchangesvr3rdpartyappslegacy">Versioni precedenti di Exchange - Componenti, strumenti e utilità estesi</A>.
 
 

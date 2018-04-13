@@ -31,7 +31,7 @@ Le intestazioni del messaggio sono più utili quando è possibile leggere la cop
 Dopo aver ottenuto le intestazioni del messaggio, incollarle in Message Header Analyzer, quindi fare clic su **Analizza**. L'Analizzatore mostra un'analisi di ogni passaggio compiuto dal messaggio e i dettagli relativi ai messaggi non ricevuti.
 
 
-> [!NOTA]
+> [!NOTE]
 > Se un messaggio non è mai giunto a destinazione, sarà necessario provare un metodo diverso per ottenere queste informazioni, ad esempio utilizzando le funzionalità di verifica dei messaggi offerte da Microsoft&nbsp;Exchange Server o Microsoft&nbsp;Exchange Online. Tali funzionalità mantengono un registro di tutti i messaggi gestiti dal sistema. Generalmente, in questa situazione sarà necessario lavorare con il supporto tecnico o l'amministratore di sistema.
 
 

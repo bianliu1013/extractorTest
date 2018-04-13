@@ -29,7 +29,7 @@ In Exchange 2003, per ActiveSync è necessario che l'autenticazione Kerberos fun
   - L'autenticazione Windows integrata potrebbe non essere abilitata sulla directory virtuale "/Exchange" del server back-end.  
   - Gli utenti interessati potrebbero essere membri di troppi gruppi e ciò potrebbe far sì che i loro token superino il numero massimo consentito.  
 
-    > [!NOTA]
+    > [!NOTE]
     > I metodi di autenticazione sulle directory virtuali di Exchange Server devono essere gestiti tramite il Gestore di sistema di Exchange e non Gestione Internet Information Services (IIS).
 
 
@@ -50,7 +50,7 @@ Per verificare se l'ereditarietà è disabilitata per l'utente:
 Se l'utente è membro di determinati gruppi protetti, ad esempio Domain Administrators, è normale che tale casella di controllo sia deselezionata. Se si verificano problemi con i membri di questi gruppi protetti, verificare le autorizzazioni per l'oggetto AdminSDHolder.
 
 
-> [!NOTA]
+> [!NOTE]
 > È consigliabile evitare di utilizzare per la posta elettronica account appartenenti a gruppi protetti. Se sono necessari i diritti concessi da un gruppo protetto, è consigliabile utilizzare due account utente di Active Directory, ovvero un account utente aggiunto a un gruppo protetto e un account utente utilizzato ai fini della posta elettronica e per tutte le altre operazioni.
 
 

@@ -150,7 +150,7 @@ La tabella che segue mostra quali certificati radice emessi da autorità di cert
 
 
 
-> [!NOTA]
+> [!NOTE]
 > Alcune delle autorità di certificazione riportate nella tabella hanno certificati CA firmati da un'altra autorità di certificazione. Sebbene alcuni certificati radice non siano riconosciuti come affidabili sulle versioni meno recenti di Windows Mobile, ciò non significa che i certificati emessi da una determinata società non possano concatenarsi con un certificato radice affidabile su una di quelle versioni di Windows Mobile. Contattare l'autorità di certificazione per sapere a quali certificati radice può concatenarsi il proprio certificato.
 
 

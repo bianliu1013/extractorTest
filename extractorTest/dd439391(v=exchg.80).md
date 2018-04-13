@@ -142,7 +142,7 @@ Per risolvere questo problema, eseguire una o più delle operazioni seguenti:
   - In alternativa, è possibile rimuovere il requisito di Exchange per la crittografia delle comunicazioni RPC. A tale scopo, seguire questa procedura.  
     
 
-    > [!NOTA]
+    > [!NOTE]
     > <STRONG>Nota</STRONG> In Exchange Server 2010 Service Pack 1 (SP1) il requisito per la crittografia delle comunicazioni RPC è disattivato per impostazione predefinita.
 
     

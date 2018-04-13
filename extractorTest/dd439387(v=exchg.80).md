@@ -27,7 +27,7 @@ Gli utenti finali non potranno connettersi alle applicazioni e ai servizi Exchan
 I motivi di questo errore potrebbero essere molteplici, ma il più probabile potrebbe essere un server ISA non configurato correttamente.
 
 
-> [!NOTA]
+> [!NOTE]
 > Se si utilizza ISA 2000, si raccomanda di aggiornare a ISA 2006. Se non è possibile effettuare l'aggiornamento, sulla regola di pubblicazione sul Web OWA è necessario rimuovere tutte le voci Path e sostituirle solo con "/*".
 
 
@@ -41,7 +41,7 @@ I motivi di questo errore potrebbero essere molteplici, ma il più probabile pot
 Se il punto di ingresso al Server Exchange è ISA Server 2006, controllare la regola di pubblicazione per stabilire se la regola è configurata per non consentire tutte le autenticazioni. Andare alla scheda Delega e visualizzare l'elenco a discesa sotto "Metodo utilizzato da ISA Server per autenticare il server Web pubblicato". L'opzione "Nessuna delega e Client possono essere autenticati direttamente" disabilita qualsiasi autenticazione sulla regola. Dato che tutti i servizi di Exchange richiedono un certo tipo di autenticazione, scegliere dal menu a discesa un metodo diverso di delega adatto al proprio ambiente.
 
 
-> [!NOTA]
+> [!NOTE]
 > Questo problema può anche essere legato a un problema relativo al set di destinazione. Verificare che il set di destinazione punti all'indirizzo IP esterno.
 
 
