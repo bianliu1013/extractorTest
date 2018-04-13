@@ -1,4 +1,4 @@
----
+﻿---
 title: È stata ricevuta una risposta di reindirizzamento imprevista
 TOCTitle: È stata ricevuta una risposta di reindirizzamento imprevista
 ms:assetid: 12995093-5ad0-467b-8566-6bfa98606f54
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439362(v=EXCHG.80)
 ms:contentKeyID: 27341523
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP a Exchange Server per verificare che possa connettersi alle funzioni di Outlook Web Access, Exchange ActiveSync e Outlook via Internet. Una risposta positiva è indicata con HTTP 200 (o 207). Quando l'Analizzatore connettività remota di Exchange riceve una risposta di reindirizzamento (vale a dire 301, 302, 302) invece di 200 o 207, viene visualizzato il seguente messaggio di errore:
 

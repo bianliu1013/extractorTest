@@ -1,4 +1,4 @@
----
+﻿---
 title: Si è verificato un errore di rete durante la comunicazione con l'host remoto
 TOCTitle: Si è verificato un errore di rete durante la comunicazione con l'host remoto
 ms:assetid: b2e81fe1-5a94-4d07-9d58-ad483268a72a
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439386(v=EXCHG.80)
 ms:contentKeyID: 27341588
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-11-18*
+_**Ultima modifica dell'argomento:** 2009-11-18_
 
 L'analizzatore di Microsoft Exchange tenta di effettuare una connessione TCP con l'host fornito durante la prova. Se l'analizzatore connettività remota di Exchange non è in grado di stabilire una connessione TCP sulla porta 80 e sulla porta 443 con l'host, viene visualizzato il seguente messaggio di errore:
 

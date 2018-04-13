@@ -1,4 +1,4 @@
----
+﻿---
 title: Nessun metodo di autenticazione supportato trovato nella risposta
 TOCTitle: Nessun metodo di autenticazione supportato trovato nella risposta
 ms:assetid: ef9f2062-3376-42da-9bd1-a333278449b6
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439397(v=EXCHG.80)
 ms:contentKeyID: 27341613
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-05-21*
+_**Ultima modifica dell'argomento:** 2012-05-21_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP per verificare i metodi di autenticazione del servizio specificato. Se riceve una risposta di mancata autorizzazione 401, l'Analizzatore connettività remota di Exchange si aspetta che nella risposta compaiano determinate intestazioni WWW-Authenticate. Queste intestazioni indicano i metodi di autenticazione supportati per il servizio. Se non vengono ricevute intestazioni WWW-Authenticate, l'Analizzatore connettività remota di Exchange genera il seguente messaggio di errore:
 

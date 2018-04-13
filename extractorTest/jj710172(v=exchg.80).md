@@ -1,4 +1,4 @@
----
+﻿---
 title: Endpoint EWS con puntamento a un server legacy locale
 TOCTitle: Endpoint EWS con puntamento a un server legacy locale
 ms:assetid: acc50014-a6c7-4453-9167-2eb6f034a45b
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ710172(v=EXCHG.80)
 ms:contentKeyID: 49378892
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-11-06*
+_**Ultima modifica dell'argomento:** 2012-11-06_
 
 Lo strumento Analizzatore connettività remota di Microsoft Exchange consente di individuare eventuali problemi che hanno per oggetto le query sulla disponibilità tra una cassetta postale di Office 365 e una cassetta postale locale. Questo controllo dello stato verifica anche che il server Exchange locale soddisfi i requisiti minimi per la versione. Affinché una query sulla disponibilità cross-premise funzioni, il server che ospita l'individuazione automatica e gli endpoint EWS devono utilizzare Microsoft Exchange Server 2010 SP1 o una versione successiva.
 

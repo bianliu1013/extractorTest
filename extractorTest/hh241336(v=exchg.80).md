@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile risolvere il nome dell'endpoint HTTP di Active Directory Federation Services (ADFS)
 TOCTitle: Impossibile risolvere il nome dell'endpoint HTTP di Active Directory Federation Services (ADFS)
 ms:assetid: 71fdd487-1725-4343-89ef-b52b76a6defc
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241336(v=EXCHG.80)
 ms:contentKeyID: 42607548
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,13 +14,12 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-21*
+_**Ultima modifica dell'argomento:** 2011-06-21_
 
 L'Analizzatore connettività remota Microsoft interroga la piattaforma di autenticazione nel cloud per eseguire una simulazione del processo di recupero dei token dal server ADFS locale. Per eseguire il test, lo strumento interroga l'endpoint STS ricevuto nel passaggio di individuazione dell'area di autenticazione del dominio eseguito in precedenza. Tale operazione viene eseguita per assicurare che venga impostata una voce DNS esterna per l'endpoint STS, di modo che i client esterni possano risolvere l'endpoint.
 
 Se non è possibile restituire la voce DNS per l'endpoint STS, l'Analizzatore connettività remota restituisce l'avviso seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -31,6 +31,7 @@ Se non è possibile restituire la voce DNS per l'endpoint STS, l'Analizzatore co
 </tr>
 </tbody>
 </table>
+
 
 Tale messaggio potrebbe indicare uno dei problemi seguenti:
 

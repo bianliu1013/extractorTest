@@ -1,4 +1,4 @@
----
+﻿---
 title: Ulteriori risorse della guida per MCA
 TOCTitle: Ulteriori risorse della guida per MCA
 ms:assetid: 60986c3f-3118-47ff-9c22-0e884532f99c
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ863251(v=EXCHG.80)
 ms:contentKeyID: 50553809
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-11-06*
+_**Ultima modifica dell'argomento:** 2012-11-06_
 
 Questo argomento fornisce ulteriori risorse sullo strumento Analizzatore connettività di Microsoft. Queste risorse possono essere utilizzate per risolvere i seguenti problemi:
 
@@ -41,16 +42,8 @@ Chi non utilizza Office 365 può trovare informazioni sui seguenti siti Web Micr
 
 È anche possibile utilizzare ulteriori informazioni sullo strumento Analizzatore connettività remota sul [forum](http://social.technet.microsoft.com/forums/it-it/exrca/threads).
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Al momento questo forum è sospeso. Tuttavia, gli argomenti pubblicati su questo forum sono disponibili in <a href="http://social.technet.microsoft.com/forums/it-it/exchangesvr3rdpartyappslegacy">Versioni precedenti di Exchange - Componenti, strumenti e utilità estesi</a>.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> Al momento questo forum è sospeso. Tuttavia, gli argomenti pubblicati su questo forum sono disponibili in <A href="http://social.technet.microsoft.com/forums/it-it/exchangesvr3rdpartyappslegacy">Versioni precedenti di Exchange - Componenti, strumenti e utilità estesi</A>.
+
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Inoltro aperto rilevato
 TOCTitle: Inoltro aperto rilevato
 ms:assetid: 94007fb7-3f2a-43b4-a4b8-20efed3db232
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439381(v=EXCHG.80)
 ms:contentKeyID: 27341573
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange tenta di inviare un messaggio di prova utilizzando l'indirizzo di un destinatario che non appartiene all'organizzazione di Exchange. Se l'operazione riesce, il server SMTP opera come punto di inoltro aperto e la prova visualizza il seguente messaggio:
 

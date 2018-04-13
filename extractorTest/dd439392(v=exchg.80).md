@@ -1,4 +1,4 @@
----
+﻿---
 title: Errore Server RPC non disponibile generato dal runtime RPC
 TOCTitle: Errore Server RPC non disponibile generato dal runtime RPC
 ms:assetid: db543644-c252-47ee-a70b-4f60770083dc
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439392(v=EXCHG.80)
 ms:contentKeyID: 27341605
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2010-08-20*
+_**Ultima modifica dell'argomento:** 2010-08-20_
 
 Lo strumento Microsoft Exchange Best Practices Analyzer invia un comando RPCPing a diversi endpoint Exchange Server per simulare le connessioni che vengono stabilite quando un client Microsoft Outlook si connette a Microsoft Exchange Server 2007 tramite Outlook via Internet o a Microsoft Exchange Server 2003 tramite RPC su HTTP. Per connettersi, il client deve essere prima in grado di connettersi agli endpoint HTTP dell'Archivio informazioni di Microsoft Exchange, al servizio di riferimento DSProxy all'interno del servizio Supervisore sistema di Microsoft Exchange e al servizio DSProxy all'interno del servizio Supervisore sistema di Microsoft Exchange tramite le porte 6001, 6002 e 6004, rispettivamente. Se il test ha esito negativo, l'Analizzatore connettività remota di Exchange genera il messaggio di errore seguente:
 
@@ -35,18 +36,11 @@ Per risolvere il problema, fare quanto segue:
   - Per verificare la connettività agli endpoint, aprire una sessione Telnet sul server Accesso client o sul server front-end, quindi stabilire una connessione Telnet con ogni porta dei server cassette postali (ovvero, per le porte 6001, 6002 e 6004). Se non è possibile stabilire correttamente una connessione Telnet a una delle porte e i server sono separati da un firewall, controllare la configurazione del firewall.  
   - Se si riceve l'errore sulla porta 6004 e si utilizza Exchange 2007 su Windows Server 2008, verificare che sia installato Exchange 2007 SP1 RU4 o versione successiva. È infatti presente un problema di IPv6 che può impedire l'esecuzione delle richieste DSProxy e generare questo errore. Per ulteriori informazioni su questo specifico problema, vedere Articolo della Microsoft Knowledge Base, "[Vengono chieste le credenziali dell'utente tre volte e viene visualizzato un messaggio di errore quando si utilizza la funzione Outlook via Internet per connettersi a un server di Exchange Server 2007 Service Pack 1 su cui è in esecuzione Windows Server 2008](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=950138)".  
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>La modifica del valore ValidPorts non si applica a Microsoft Exchange Server 2010. In Exchange 2010, il valore del Registro di sistema è ValidPorts_Exchange. Tale valore non deve essere modificato manualmente, perché viene creato dalla configurazione automatica nelle impostazioni del server Accesso Client.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> La modifica del valore ValidPorts non si applica a Microsoft Exchange Server 2010. In Exchange 2010, il valore del Registro di sistema è ValidPorts_Exchange. Tale valore non deve essere modificato manualmente, perché viene creato dalla configurazione automatica nelle impostazioni del server Accesso Client.
+
+
 
 ## Risorse aggiuntive
 

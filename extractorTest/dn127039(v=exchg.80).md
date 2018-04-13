@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Test MCA: Impossibile visualizzare le informazioni sulla disponibilità di un altro utente'
 TOCTitle: 'Test MCA: Impossibile visualizzare le informazioni sulla disponibilità di un altro utente'
 ms:assetid: 4ec87a51-fc6e-477f-8ccf-7520f64193fd
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dn127039(v=EXCHG.80)
 ms:contentKeyID: 53089510
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-02-21*
+_**Ultima modifica dell'argomento:** 2013-02-21_
 
 L'analizzatore connettività di Microsoft include il test **Impossibile visualizzare le informazioni sulla disponibilità di un altro utente**. Questo test verifica che una cassetta postale di Office 365 possa accedere alle informazioni sulla disponibilità di una cassetta postale locale e viceversa.
 

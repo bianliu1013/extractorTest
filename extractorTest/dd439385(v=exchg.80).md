@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile negoziare una versione Airsync appropriata con il server
 TOCTitle: Impossibile negoziare una versione Airsync appropriata con il server
 ms:assetid: b2b4c060-32c3-417e-840a-50981b455927
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439385(v=EXCHG.80)
 ms:contentKeyID: 27341586
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP con il verbo OPTIONS alla directory virtuale Microsoft-Server-ActiveSync sul server e analizza le intestazioni HTTP nella risposta HTTP. Se l'intestazione MS-ASProtocolVersions non contiene 2.5 o 12.0, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore:
 

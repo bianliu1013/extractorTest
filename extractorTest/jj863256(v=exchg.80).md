@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Test MCA: Impossibile accedere con Office Outlook'
 TOCTitle: 'Test MCA: Impossibile accedere con Office Outlook'
 ms:assetid: f64c96d4-26ed-4ece-821e-4548d945589a
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ863256(v=EXCHG.80)
 ms:contentKeyID: 50553812
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-11-06*
+_**Ultima modifica dell'argomento:** 2012-11-06_
 
 Lo strumento Analizzatore connettività Microsoft include il test “Impossibile accedere con Office Outlook”. Si tratta di una famiglia di prodotti che identificano problemi di connettività tra i client di posta elettronica e un server su cui è in esecuzione Microsoft Exchange Server. Il test illustra le operazioni eseguite da Outlook per connettersi tramite Outlook Anywhere (RPC su HTTP). Questo test illustra anche le operazioni eseguite da Outlook 2007 per ottenere le impostazioni dal servizio di individuazione automatica.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile trovare il record posizione servizio (SRV) di individuazione automatica nel DNS
 TOCTitle: Impossibile trovare il record posizione servizio (SRV) di individuazione automatica nel DNS
 ms:assetid: f7432938-9087-4033-9648-224565858a5d
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439398(v=EXCHG.80)
 ms:contentKeyID: 27341615
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange interroga il DNS per stabilire se esistono record posizione servizio (SRV) per l'individuazione automatica. Questa query per la posizione servizio DNS è in formato "\_autodiscover.\_tcp.\<smtpDomain\>" dove \<smtpDomain\> corrisponde alla parte destra dell'indirizzo SMTP principale dell'utente. Se l'Analizzatore connettività remota di Exchange non è in grado di individuare tutti i record SRV per l'individuazione automatica in quello spazio dei nomi, viene visualizzato il seguente errore:
 
@@ -26,18 +27,11 @@ I client Microsoft Office Outlook 2007 tentano di connettersi al servizio di ind
 3.  Utilizzo di un reindirizzamento HTTP  
 4.  Utilizzo di un record SRV  
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Questo deve essere considerato solo un errore se si intende configurare il proprio ambiente in modo che il percorso di individuazione automatica della directory virtuale sul server Accesso client venga trovato tramite un record SRV.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> Questo deve essere considerato solo un errore se si intende configurare il proprio ambiente in modo che il percorso di individuazione automatica della directory virtuale sul server Accesso client venga trovato tramite un record SRV.
+
+
 
 ## Per ulteriori informazioni
 

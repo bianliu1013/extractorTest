@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile trovare tutti i metodi di autenticazione richiesti
 TOCTitle: Impossibile trovare tutti i metodi di autenticazione richiesti
 ms:assetid: 8b5d0ae9-fa46-498f-8d90-94e9195388c6
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439378(v=EXCHG.80)
 ms:contentKeyID: 27341563
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-11-18*
+_**Ultima modifica dell'argomento:** 2009-11-18_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP per verificare i metodi di autenticazione del servizio specificato. Se riceve una risposta di mancata autorizzazione 401, l'Analizzatore connettività remota di Exchange si aspetta che nella risposta compaiano determinate intestazioni WWW-Authenticate. Alcuni servizio quali Exchange ActiveSync e Outlook via Internet (RPC su HTTP) non negoziano alcun metodo di autenticazione con il server remoto. Questi client dispongono di un metodo di autenticazione predefinito che viene inviato con ciascuna richiesta. Se il metodo di autenticazione non è abilitato sul server remoto, l'Analizzatore connettività remota di Exchange genera il seguente messaggio di errore:
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Il comando OPTIONS di ActiveSync ha restituito l'errore HTTP 401
 TOCTitle: Il comando OPTIONS di ActiveSync ha restituito l'errore HTTP 401
 ms:assetid: 0715cdea-acfa-4c0f-88da-16fde67ac3e6
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ715719(v=EXCHG.80)
 ms:contentKeyID: 49667042
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-02-05*
+_**Ultima modifica dell'argomento:** 2013-02-05_
 
 Microsoft Exchange ActiveSync consente di eseguire la sincronizzazione delle informazioni della cassetta postale con i dispositivi mobili. A tale scopo, Exchange utilizza la directory virtuale Microsoft-Server-ActiveSync in Internet Information Services (IIS).
 
@@ -46,6 +47,7 @@ La causa più comune di questo errore è l'utilizzo di un nome utente o una pass
 </tbody>
 </table>
 
+
 **Per modificare le autorizzazioni sulla directory virtuale Microsoft-Server-ActiveSync nel Gestore di sistema di Exchange 2003**
 
 1.  Installare il seguente aggiornamento rapido sul server Exchange 2003:  
@@ -73,18 +75,11 @@ La causa più comune di questo errore è l'utilizzo di un nome utente o una pass
     3.  Fare clic con il pulsante destro del mouse su **Microsoft-Server-ActiveSync**, quindi scegliere **Proprietà**.  
     4.  Fare clic sulla scheda **Protezione directory**, quindi selezionare il pulsante **Modifica** sotto **Controllo autenticazione e accesso**.  
     5.  Verificare che la casella di controllo **Autenticazione integrata di Windows** sia selezionata.  
-        <table>
-        <thead>
-        <tr class="header">
-        <th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td>Se la casella di controllo è selezionata, la modifica apportata nel Gestore di sistema di Exchange è stata correttamente replicata nel metabase sul server Exchange.</td>
-        </tr>
-        </tbody>
-        </table>
+
+        > [!NOTA]
+        > Se la casella di controllo è selezionata, la modifica apportata nel Gestore di sistema di Exchange è stata correttamente replicata nel metabase sul server Exchange.
+
+
     6.  Fare due volte clic su **Annulla** e uscire da Gestione Internet Information Services (IIS).  
 
 Per ulteriori informazioni, vedere il passo 7 nella sezione relativa all'"installazione di Exchange 2010" nell'articolo nella TechNet sull' [aggiornamento da Accesso client Exchange 2003](http://go.microsoft.com/fwlink/p/?linkid=280550)

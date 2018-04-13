@@ -1,4 +1,4 @@
----
+﻿---
 title: Nessun record MX trovato per il dominio SMTP specificato
 TOCTitle: Nessun record MX trovato per il dominio SMTP specificato
 ms:assetid: 1309d583-594e-4a6f-9bd0-41834f86b115
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439363(v=EXCHG.80)
 ms:contentKeyID: 27341524
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-11-18*
+_**Ultima modifica dell'argomento:** 2009-11-18_
 
 L'analizzatore di Microsoft Exchange esegue una ricerca in DNS per trovare un elenco dei record MX (Mail Exchanger) che corrispondono al dominio da verificare. Se nell'elenco restituito non sono presenti record MX, la verifica avrà esito negativo con il seguente messaggio di errore:  
   

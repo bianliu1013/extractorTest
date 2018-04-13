@@ -1,4 +1,4 @@
----
+﻿---
 title: Elemento EXPR mancante nella risposta XML del servizio di individuazione automatica
 TOCTitle: Elemento EXPR mancante nella risposta XML del servizio di individuazione automatica
 ms:assetid: cdd6809e-b5dc-49e5-b977-750ccec1e1eb
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439390(v=EXCHG.80)
 ms:contentKeyID: 27341597
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-02-10*
+_**Ultima modifica dell'argomento:** 2011-02-10_
 
 L'analizzatore di Microsoft Exchange interroga la risposta HTTP del servizio di individuazione automatica per individuare gli attributi contenuti nell'XML all'interno della risposta. Nell'XML si trovano in genere due provider di Outlook e relativi attributi:
 

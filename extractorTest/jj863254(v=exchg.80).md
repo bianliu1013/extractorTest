@@ -1,4 +1,4 @@
----
+﻿---
 title: "Errore durante l'esecuzione dello strumento Analizzatore connettività remota di Exchange per testare la connettività a Office 365: \"Per l'autenticazione a Office 365, è necessario immettere il proprio account Microsoft\""
 TOCTitle: "Errore durante l'esecuzione dello strumento Analizzatore connettività remota di Exchange per testare la connettività a Office 365: \"Per l'autenticazione a Office 365, è necessario immettere il proprio account Microsoft\""
 ms:assetid: 1f7414a1-1079-459a-ae72-3c431a01813e
@@ -6,14 +6,15 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ863254(v=EXCHG.80)
 ms:contentKeyID: 50553805
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
-# Errore durante l'esecuzione dello strumento Analizzatore connettività remota di Exchange per testare la connettività a Office 365: "Per l'autenticazione a Office 365, è necessario immettere il proprio account Microsoft"
+# Errore durante l'esecuzione dello strumento Analizzatore connettività remota di Exchange per testare la connettività a Office 365: \"Per l'autenticazione a Office 365, è necessario immettere il proprio account Microsoft\"
 
  
 
-***Ultima modifica dell'argomento:** 2012-11-06*
+_**Ultima modifica dell'argomento:** 2012-11-06_
 
 Se si verifica un problema quando si tenta di eseguire lo strumento Analizzatore connettività remota di Microsoft Exchange per testare la connettività a Microsoft Office 365, è possibile che venga visualizzato il seguente messaggio di errore: Per l'autenticazione a Office 365, è necessario immettere il proprio account Microsoft. È il nome dell'entità utente e in molti casi sarà simile a utente@contoso.com.
 
@@ -23,7 +24,6 @@ Le seguenti sezioni possono essere utili per risolvere questo problema.
 
 Gli utenti di Office 365 che rilevano dei problemi quando eseguono lo strumento Analizzatore connettività remota di Microsoft Exchange possono utilizzare le informazioni nella tabella seguente per risolvere il problema.
 
-###  
 
 <table>
 <colgroup>
@@ -64,11 +64,11 @@ Gli utenti di Office 365 che rilevano dei problemi quando eseguono lo strumento 
 </tbody>
 </table>
 
+
 ## Informazioni per gli amministratori
 
 Gli utenti di Office 365 che rilevano dei problemi quando eseguono lo strumento Analizzatore connettività remota di Microsoft Exchange possono utilizzare le informazioni nella tabella seguente per risolvere il problema.
 
-###  
 
 <table>
 <colgroup>
@@ -108,6 +108,7 @@ Gli utenti di Office 365 che rilevano dei problemi quando eseguono lo strumento 
 </tr>
 </tbody>
 </table>
+
 
 ## Ulteriori informazioni
 

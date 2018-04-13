@@ -1,4 +1,4 @@
----
+﻿---
 title: Elemento AuthPackage mancante nella risposta XML del servizio di individuazione automatica
 TOCTitle: Elemento AuthPackage mancante nella risposta XML del servizio di individuazione automatica
 ms:assetid: 5ffece69-b240-4d37-ab6a-7b257c03cb7f
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439374(v=EXCHG.80)
 ms:contentKeyID: 27341551
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-09-01*
+_**Ultima modifica dell'argomento:** 2009-09-01_
 
 L'analizzatore di Microsoft Exchange invia una richiesta di individuazione automatica XML al server Accesso client di Exchange 2007 remoto e analizza la risposta. Se nella risposta XML proveniente dal servizio di individuazione automatica non è presente alcun elemento AuthPackage, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore:
 

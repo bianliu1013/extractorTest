@@ -1,4 +1,4 @@
----
+﻿---
 title: Errore con l'ora di sistema
 TOCTitle: Errore con l'ora di sistema
 ms:assetid: d444776a-2a72-4185-8979-bd786390b38f
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ710174(v=EXCHG.80)
 ms:contentKeyID: 49378895
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,24 +14,17 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-11-06*
+_**Ultima modifica dell'argomento:** 2012-11-06_
 
 Lo strumento Analizzatore connettività remota di Microsoft Exchange individua eventuali problemi che hanno per oggetto le query sulla disponibilità tra una cassetta postale di Office 365 e una cassetta postale locale. Questo controllo dello stato verifica anche l'ora di sistema del server Exchange locale. Come nel caso dei problemi che possono interessare il protocollo Kerberos, se si riscontra uno scostamento superiore ai 5 minuti dell'ora di sistema sul server locale che comunica con Microsoft Federation Gateway, quando il server richiede un token di delega riceve un errore di accesso negato.
 
 L'errore di accesso negato provoca problemi che interessano le ricerche sui dati di disponibilità cross-premise, oltre ad altri problemi a livello di altre funzionalità cross-premise. Per risolvere questo problema, utilizzare un orologio affidabile per i server nell'ambiente e impostare l'ora di sistema sui valori corretti.
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Se si sta creando una relazione di trust federativa, per gli stessi motivi indicati in precedenza è possibile che si riceva il seguente messaggio di errore: 1007 AccessDenied: Accesso negato.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> Se si sta creando una relazione di trust federativa, per gli stessi motivi indicati in precedenza è possibile che si riceva il seguente messaggio di errore: 1007 AccessDenied: Accesso negato.
+
+
 
 Generalmente, questo messaggio di errore è un indicatore attendibile di questo problema. Tuttavia, se non si è certi che si tratti proprio di questo problema, connettersi a Exchange Management Shell sul server Exchange locale e utilizzare il seguente cmdlet: **Test-FederationTrust ValidMailbox -userIdentity –Verbose**.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Ricevuta risposta HTTP positiva diversa da risposta di reindirizzamento
 TOCTitle: Ricevuta risposta HTTP positiva diversa da risposta di reindirizzamento
 ms:assetid: 933f43be-6a74-4d3d-b702-f327d33408f5
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439380(v=EXCHG.80)
 ms:contentKeyID: 27341570
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-17*
+_**Ultima modifica dell'argomento:** 2009-08-17_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP al server Accesso client mentre tenta di contattare il servizio di individuazione automatica tramite il metodo di reindirizzamento HTTP. Durante questa verifica, l'unico tipo di risposta accettata è un reindirizzamento HTTP; qualsiasi altro codice di stato indica un problema. Una risposta di reindirizzamento prevista avrà il codice di stato 301, 302 o 307. Se si riceve una qualsiasi altra risposta, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore:
 

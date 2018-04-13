@@ -1,4 +1,4 @@
----
+﻿---
 title: Ricevuto errore HTTP 403 perché il server ISA ha negato l'URL specificato
 TOCTitle: Ricevuto errore HTTP 403 perché il server ISA ha negato l'URL specificato
 ms:assetid: b4a20f57-ae2c-4526-83e8-5a179066ae96
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439387(v=EXCHG.80)
 ms:contentKeyID: 27341591
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-11-17*
+_**Ultima modifica dell'argomento:** 2009-11-17_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP e convalida la risposta ricevuta per verificare la connettività. Se il punto di ingresso a Server Exchange è un server ISA e le regole di pubblicazione sul server ISA non sono configurate correttamente, ISA potrebbe inviare una risposta HTTP 403 non consentita. Se ISA invia una risposta HTTP 403, lo strumento connettività remota di Microsoft Exchange visualizza il seguente messaggio:
 
@@ -25,18 +26,11 @@ Gli utenti finali non potranno connettersi alle applicazioni e ai servizi Exchan
 
 I motivi di questo errore potrebbero essere molteplici, ma il più probabile potrebbe essere un server ISA non configurato correttamente.
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Se si utilizza ISA 2000, si raccomanda di aggiornare a ISA 2006. Se non è possibile effettuare l'aggiornamento, sulla regola di pubblicazione sul Web OWA è necessario rimuovere tutte le voci Path e sostituirle solo con &quot;/*&quot;.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> Se si utilizza ISA 2000, si raccomanda di aggiornare a ISA 2006. Se non è possibile effettuare l'aggiornamento, sulla regola di pubblicazione sul Web OWA è necessario rimuovere tutte le voci Path e sostituirle solo con "/*".
+
+
 
 **Per correggere questo errore**
 
@@ -46,18 +40,11 @@ I motivi di questo errore potrebbero essere molteplici, ma il più probabile pot
 
 Se il punto di ingresso al Server Exchange è ISA Server 2006, controllare la regola di pubblicazione per stabilire se la regola è configurata per non consentire tutte le autenticazioni. Andare alla scheda Delega e visualizzare l'elenco a discesa sotto "Metodo utilizzato da ISA Server per autenticare il server Web pubblicato". L'opzione "Nessuna delega e Client possono essere autenticati direttamente" disabilita qualsiasi autenticazione sulla regola. Dato che tutti i servizi di Exchange richiedono un certo tipo di autenticazione, scegliere dal menu a discesa un metodo diverso di delega adatto al proprio ambiente.
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Questo problema può anche essere legato a un problema relativo al set di destinazione. Verificare che il set di destinazione punti all'indirizzo IP esterno.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> Questo problema può anche essere legato a un problema relativo al set di destinazione. Verificare che il set di destinazione punti all'indirizzo IP esterno.
+
+
 
 Esempio:
 

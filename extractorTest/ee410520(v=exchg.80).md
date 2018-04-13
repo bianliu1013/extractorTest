@@ -1,4 +1,4 @@
----
+﻿---
 title: Risposta XML non valida, impossibile recuperare le impostazioni di disponibilità o fuori sede
 TOCTitle: Risposta XML non valida, impossibile recuperare le impostazioni di disponibilità o fuori sede
 ms:assetid: 30bf8fea-d51f-4b7e-a964-66877cd4ce10
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ee410520(v=EXCHG.80)
 ms:contentKeyID: 27341533
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia delle richieste XML/HTTP GetUserOofSettings e GetUserAvailability al servizio Servizi Web Exchange utilizzando l'API di Servizi Web Exchange per verificare le operazioni utilizzate dalle applicazioni personalizzate e dai client Exchange. Quando nella risposta è presente un XML non valido, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore.
 

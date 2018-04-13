@@ -1,4 +1,4 @@
----
+﻿---
 title: Problemi generali che possono verificarsi per uno o tutti gli utenti
 TOCTitle: Problemi generali che possono verificarsi per uno o tutti gli utenti
 ms:assetid: 823ee906-50fb-4354-b748-fd0672ebbaec
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241337(v=EXCHG.80)
 ms:contentKeyID: 42607549
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,13 +14,12 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-02-24*
+_**Ultima modifica dell'argomento:** 2012-02-24_
 
 L'Analizzatore connettività remota di Microsoft Exchange interroga la piattaforma di autenticazione nel cloud per individuare l'area di autenticazione. Al termine del processo la piattaforma di autenticazione passa al client richiedente l'URL dell'endpoint ADFS necessario per l'autenticazione del client. Lo strumento esegue l'autenticazione per conto dell'utente, per simulare l'autenticazione nell'ambiente di Office 365.
 
 Se in questa fase l'Analizzatore connettività remota restituisce un avviso, il messaggio può indicare molti problemi diversi. Poiché il processo di autenticazione richiede numerosi passaggi, la soluzione da applicare quando viene restituito un errore o un avviso non è sempre ovvia. Potrebbe essere ad esempio visualizzato uno dei messaggi seguenti:
 
-###  
 
 <table>
 <colgroup>
@@ -34,6 +34,7 @@ Se in questa fase l'Analizzatore connettività remota restituisce un avviso, il 
 </tr>
 </tbody>
 </table>
+
 
 Questi errori generici potrebbero essere causati ad esempio dai problemi seguenti:
 

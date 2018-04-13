@@ -1,4 +1,4 @@
----
+﻿---
 title: Nome certificato SSL non corrispondente
 TOCTitle: Nome certificato SSL non corrispondente
 ms:assetid: dc668c92-13d9-4c90-9078-1e08971cde45
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439393(v=EXCHG.80)
 ms:contentKeyID: 27341607
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,13 +14,12 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-13*
+_**Ultima modifica dell'argomento:** 2011-06-13_
 
 L'Analizzatore Microsoft interroga l'oggetto Certificato server nel sistema Exchange Server per recuperare varie proprietà dei certificati X509. Per ciascun certificato SSL rilevato, l'Analizzatore connettività remota esamina il nome di dominio completo (FQDN) assegnato al certificato. Lo strumento valuta ad esempio www.microsoft.com.
 
 L'Analizzatore connettività remota di Exchange visualizza il seguente avviso se il nome di dominio completo non corrisponde all'indirizzo o all'URL dell'host che il client utilizza per eseguire una connessione con il server.
 
-###  
 
 <table>
 <colgroup>
@@ -32,9 +32,9 @@ L'Analizzatore connettività remota di Exchange visualizza il seguente avviso se
 </tbody>
 </table>
 
+
 L'avviso di nome non corrispondente indica che gli utenti potrebbero non essere in grado di connettersi alle proprie cassette postali utilizzando Outlook via Internet o Exchange ActiveSync per Exchange Server 2007. Se si verifica questo problema, i client di Microsoft Office Outlook 2007 potrebbero ricevere il seguente avviso relativo ai certificati:
 
-###  
 
 <table>
 <colgroup>
@@ -47,9 +47,9 @@ L'avviso di nome non corrispondente indica che gli utenti potrebbero non essere 
 </tbody>
 </table>
 
+
 I dispositivi mobili in genere ricevono un messaggio di errore simile al seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -61,6 +61,7 @@ I dispositivi mobili in genere ricevono un messaggio di errore simile al seguent
 </tr>
 </tbody>
 </table>
+
 
 È possibile ricevere un analogo avviso relativo ai certificati anche durante il test della funzione Single Sign-On in Analizzatore connettività remota. Lo strumento interroga la piattaforma di autenticazione del cloud per individuare l'area di autenticazione. Al termine del processo la piattaforma di autenticazione passa al client richiedente l'URL dell'endpoint ADFS necessario per l'autenticazione del client. Tale endpoint è una connessione SSL (Secure Sockets Layer) dotata di certificato. L'Analizzatore connettività remota valuta il nome di dominio completo (FQDN) assegnato al certificato. Lo strumento valuta ad esempio STS.Contoso.com.
 

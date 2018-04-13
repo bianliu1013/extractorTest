@@ -1,4 +1,4 @@
----
+﻿---
 title: L'account Act As potrebbe non avere le autorizzazioni per eliminare gli elementi in questa cartella
 TOCTitle: L'account Act As potrebbe non avere le autorizzazioni per eliminare gli elementi in questa cartella
 ms:assetid: 7e8eef64-5a01-46df-bfbc-8694ba64e95b
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ee410522(v=EXCHG.80)
 ms:contentKeyID: 27341558
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-05-23*
+_**Ultima modifica dell'argomento:** 2012-05-23_
 
 L'analizzatore di Microsoft Exchange invia una richiesta XML/HTTP [Operazione DeleteItem](http://go.microsoft.com/fwlink/?linkid=161962) al servizio Servizi Web Exchange utilizzando l'API di Servizi Web Exchange per eliminare un elemento di prova in una cassetta postale o in una cartella pubblica. Quando nella risposta è presente un messaggio di errore che indica che è stato negato l'accesso, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore.
 

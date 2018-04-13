@@ -1,4 +1,4 @@
----
+﻿---
 title: Elemento EXCH mancante nella risposta XML del servizio di individuazione automatica
 TOCTitle: Elemento EXCH mancante nella risposta XML del servizio di individuazione automatica
 ms:assetid: 6fbe75af-f438-4b46-84e8-55d14a5ae69c
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh849186(v=EXCHG.80)
 ms:contentKeyID: 45478515
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-02-07*
+_**Ultima modifica dell'argomento:** 2012-02-07_
 
 L'analizzatore connettività remota di Microsoft Exchange interroga la risposta HTTP del servizio di individuazione automatica per individuare gli attributi contenuti nell'XML all'interno della risposta. Nell'XML si trovano in genere i seguenti provider di Microsoft Office Outlook e loro relativi attributi.
 

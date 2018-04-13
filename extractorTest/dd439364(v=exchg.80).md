@@ -1,4 +1,4 @@
----
+﻿---
 title: Analizzatore connettività remota di Exchange
 TOCTitle: '@NoTitle'
 ms:assetid: 153f87c1-fbb4-445a-9055-fe1c2941c9d3
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439364(v=EXCHG.80)
 ms:contentKeyID: 27341525
 ms.date: 11/06/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-11-05*
+_**Ultima modifica dell'argomento:** 2013-11-05_
 
 L'obiettivo di questo argomento è risolvere un problema specifico correlato allo strumento Analizzatore connettività remota di Exchange Server. Applicare queste soluzioni solo ai sistemi su cui è stato eseguito lo strumento Analizzatore di Exchange Server e nei quali è stato riscontrato tale problema.
 

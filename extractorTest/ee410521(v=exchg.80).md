@@ -1,4 +1,4 @@
----
+﻿---
 title: L'account Act As potrebbe non avere le autorizzazioni per accedere a questa cartella
 TOCTitle: L'account Act As potrebbe non avere le autorizzazioni per accedere a questa cartella
 ms:assetid: 38d72b1a-7cd0-42a2-ad0e-3007b434fd2c
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ee410521(v=EXCHG.80)
 ms:contentKeyID: 27341537
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-05-23*
+_**Ultima modifica dell'argomento:** 2012-05-23_
 
 L'analizzatore di Microsoft Exchange invia una richiesta XML/HTTP [GetFolder](http://go.microsoft.com/fwlink/?linkid=161956) al servizio Servizi Web Exchange utilizzando l'API di Servizi Web Exchange per ottenere le informazioni su una cartella di una cassetta postale o una cartella pubblica. Quando nella risposta è presente un messaggio di errore che indica che è stato negato l'accesso, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore.
 

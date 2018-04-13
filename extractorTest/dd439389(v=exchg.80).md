@@ -1,4 +1,4 @@
----
+﻿---
 title: Intestazione prevista del servizio non ricevuta durante la connessione
 TOCTitle: Intestazione prevista del servizio non ricevuta durante la connessione
 ms:assetid: ca72939d-dd53-4939-900d-39fe412c220e
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439389(v=EXCHG.80)
 ms:contentKeyID: 27341595
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange tenta di connettersi al server SMTP di Exchange. A connessione avvenuta, il server SMTP invia un'intestazione SMTP. Se questa intestazione non viene mai ricevuta a causa di un timeout o altro problema, viene visualizzato il seguente messaggio:
 

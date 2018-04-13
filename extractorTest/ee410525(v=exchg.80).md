@@ -1,4 +1,4 @@
----
+﻿---
 title: Certificati radice di Windows Mobile
 TOCTitle: Certificati radice di Windows Mobile
 ms:assetid: 9a1ec840-5bff-4add-b20a-8e5970c885fe
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ee410525(v=EXCHG.80)
 ms:contentKeyID: 27341575
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-09-01*
+_**Ultima modifica dell'argomento:** 2009-09-01_
 
 L'analizzatore di Microsoft Exchange interroga l'oggetto Certificato server nel sistema Exchange Server per recuperare varie proprietà dei certificati X509. Per convalidare un determinato certificato X509, l'Analizzatore connettività remota di Exchange deve considerare attendibile l'autorità di certificazione radice che ha emesso il certificato. Se l'Analizzatore connettività remota di Exchange non riesce a seguire la catena dei certificati fino a risalire alla radice affidabile, visualizza il seguente messaggio di errore.
 
@@ -25,7 +26,6 @@ Questo problema può insorgere anche quando la catena di certificati non termina
 
 La tabella che segue mostra quali certificati radice emessi da autorità di certificazione pubbliche vengono forniti con ciascuna versione di Windows Mobile.
 
-###  
 
 <table>
 <colgroup>
@@ -148,18 +148,12 @@ La tabella che segue mostra quali certificati radice emessi da autorità di cert
 </tbody>
 </table>
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Alcune delle autorità di certificazione riportate nella tabella hanno certificati CA firmati da un'altra autorità di certificazione. Sebbene alcuni certificati radice non siano riconosciuti come affidabili sulle versioni meno recenti di Windows Mobile, ciò non significa che i certificati emessi da una determinata società non possano concatenarsi con un certificato radice affidabile su una di quelle versioni di Windows Mobile. Contattare l'autorità di certificazione per sapere a quali certificati radice può concatenarsi il proprio certificato.</td>
-</tr>
-</tbody>
-</table>
+
+
+> [!NOTA]
+> Alcune delle autorità di certificazione riportate nella tabella hanno certificati CA firmati da un'altra autorità di certificazione. Sebbene alcuni certificati radice non siano riconosciuti come affidabili sulle versioni meno recenti di Windows Mobile, ciò non significa che i certificati emessi da una determinata società non possano concatenarsi con un certificato radice affidabile su una di quelle versioni di Windows Mobile. Contattare l'autorità di certificazione per sapere a quali certificati radice può concatenarsi il proprio certificato.
+
+
 
 ## Per ulteriori informazioni
 

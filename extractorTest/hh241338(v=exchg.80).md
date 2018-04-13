@@ -1,4 +1,4 @@
----
+﻿---
 title: Il certificato SSL di ADFS è scaduto
 TOCTitle: Il certificato SSL di ADFS è scaduto
 ms:assetid: a72ff2d6-ca43-473e-9fa4-30ff00fe275d
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241338(v=EXCHG.80)
 ms:contentKeyID: 42607550
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-13*
+_**Ultima modifica dell'argomento:** 2011-06-13_
 
 L'Analizzatore connettività remota Microsoft interroga la piattaforma di autenticazione del cloud per individuare l'area di autenticazione. Al termine del processo la piattaforma di autenticazione passa al client richiedente l'URL dell'endpoint ADFS necessario per l'autenticazione del client. Tale endpoint è una connessione SSL (Secure Sockets Layer) dotata di certificato. Lo strumento valuta il nome di dominio completo (FQDN) assegnato al certificato (ad esempio, STS.Contoso.com).
 

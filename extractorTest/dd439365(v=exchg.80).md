@@ -1,4 +1,4 @@
----
+﻿---
 title: È stata restituita una risposta HTTP 403.4 in quanto si richiedeva SSL sulla directory virtuale
 TOCTitle: È stata restituita una risposta HTTP 403.4 in quanto si richiedeva SSL sulla directory virtuale
 ms:assetid: 1ce88d57-a5e6-4797-b3fe-1ba0f2410f11
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439365(v=EXCHG.80)
 ms:contentKeyID: 27341526
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-01-21*
+_**Ultima modifica dell'argomento:** 2011-01-21_
 
 L'analizzatore di Microsoft Exchange tenta di eseguire la connessione e l'autenticazione presso il sito Web o la directory virtuale usando le credenziali e il protocollo forniti dall'utente. Se si tenta di eseguire la connessione con un protocollo non sicuro, la prova potrebbe avere esito negativo e restituire il seguente errore.
 

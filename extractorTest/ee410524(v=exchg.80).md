@@ -1,4 +1,4 @@
----
+﻿---
 title: Certificati intermedi mancanti nella catena
 TOCTitle: Certificati intermedi mancanti nella catena
 ms:assetid: 91978f64-5800-4514-8c0d-52f1cc57ff71
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ee410524(v=EXCHG.80)
 ms:contentKeyID: 27341568
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-09-01*
+_**Ultima modifica dell'argomento:** 2009-09-01_
 
 L'analizzatore di Microsoft Exchange interroga l'oggetto Certificato del server nel sistema di Exchange Server per recuperare varie proprietà dei certificati X509. Per convalidare un determinato certificato X509, l'Analizzatore connettività remota di Exchange deve considerare attendibile l'autorità di certificazione radice che ha emesso il certificato. Se l'Analizzatore connettività remota di Exchange non riesce a seguire la catena dei certificati fino a risalire alla radice affidabile, visualizza un errore di non affidabilità del certificato.
 

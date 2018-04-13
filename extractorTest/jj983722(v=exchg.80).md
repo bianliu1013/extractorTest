@@ -1,4 +1,4 @@
----
+﻿---
 title: Exchange ActiveSync ha restituito l'errore HTTP 503
 TOCTitle: Exchange ActiveSync ha restituito l'errore HTTP 503
 ms:assetid: 046c92c2-676b-403b-8353-64e0ffef5e0b
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ983722(v=EXCHG.80)
 ms:contentKeyID: 51412537
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,13 +14,12 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-03-21*
+_**Ultima modifica dell'argomento:** 2013-03-21_
 
 L'analizzatore connettività remota di Exchange include il test **Utilizzo del comando FolderSync nella sessione di Exchange ActiveSync**. Questo test verifica se l'archivio delle informazioni è montato sul server Microsoft Exchange 2010.
 
 Se l'archivio delle informazioni è smontato, viene visualizzato il seguente messaggio di errore:
 
-###  
 
 <table>
 <colgroup>
@@ -31,6 +31,7 @@ Se l'archivio delle informazioni è smontato, viene visualizzato il seguente mes
 </tr>
 </tbody>
 </table>
+
 
 ## Ulteriori informazioni
 

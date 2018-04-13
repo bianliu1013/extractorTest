@@ -1,4 +1,4 @@
----
+﻿---
 title: Nome utente sconosciuto o password errata
 TOCTitle: Nome utente sconosciuto o password errata
 ms:assetid: ae77f86b-1d8e-45e4-a751-b001b23a8e8f
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241339(v=EXCHG.80)
 ms:contentKeyID: 42607551
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,13 +14,12 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-06*
+_**Ultima modifica dell'argomento:** 2011-06-06_
 
 L'Analizzatore connettività remota di Microsoft Exchange interroga la piattaforma di autenticazione del cloud per simulare il processo di recupero dei token dal server ADFS locale. Per eseguire il test, è necessario digitare il nome utente e la password appropriati, in modo che lo strumento recuperi correttamente il token per conto dell'utente.
 
 Se l'utente non viene autenticato correttamente, l'Analizzatore connettività remota visualizza l'avviso seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -31,6 +31,7 @@ Se l'utente non viene autenticato correttamente, l'Analizzatore connettività re
 </tr>
 </tbody>
 </table>
+
 
 Tale messaggio indica un errore di accesso quando si tenta di eseguire l'autenticazione nell'endpoint ADFS. Questo evento può verificarsi per uno qualsiasi dei motivi seguenti:
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Il server Active Directory Federation Services (ADFS) è inattivo o irraggiungibile
 TOCTitle: Il server Active Directory Federation Services (ADFS) è inattivo o irraggiungibile
 ms:assetid: 0e1b8934-b061-4763-b735-704b58dabeb5
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241329(v=EXCHG.80)
 ms:contentKeyID: 42607541
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,11 +14,10 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-06*
+_**Ultima modifica dell'argomento:** 2011-06-06_
 
 L'Analizzatore connettività remota di Microsoft Exchange interroga la piattaforma di autenticazione nel cloud utilizzando la federazione delle identità per simulare l'autenticazione nell'ambiente di Office 365. In alcuni casi, il server ADFS può risultare completamente irraggiungibile, ad esempio se i servizi ADFS subiscono un arresto anomalo o non possono essere avviati. Se si verifica questo problema, viene visualizzato un messaggio simile al seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -38,6 +38,7 @@ L'Analizzatore connettività remota di Microsoft Exchange interroga la piattafor
 </tr>
 </tbody>
 </table>
+
 
 Se viene restituito questo errore, esaminare i servizi ADFS sul server ADFS e sul proxy ADFS. Se non è possibile avviare i servizi su uno dei server, viene generato lo stesso messaggio di errore. In tale caso, è necessario ricercare la causa dell'errore del servizio esaminando i registri eventi. Se non è possibile avviare i servizi e la causa dell'errore non è indicata nei registri, è necessario chiamare il supporto tecnico.
 

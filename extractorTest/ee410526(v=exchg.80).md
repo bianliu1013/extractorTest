@@ -1,4 +1,4 @@
----
+﻿---
 title: L'account del servizio specificato non dispone delle autorizzazioni di rappresentazione sul server Accesso client
 TOCTitle: L'account del servizio specificato non dispone delle autorizzazioni di rappresentazione sul server Accesso client
 ms:assetid: d27993d3-fbb8-4d09-a1ad-f3b7301add9c
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ee410526(v=EXCHG.80)
 ms:contentKeyID: 27341601
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-09-01*
+_**Ultima modifica dell'argomento:** 2009-09-01_
 
 L'analizzatore di Microsoft Exchange invia le richieste XML/HTTP al servizio Servizi Web Exchange con l'API Servizi Web Exchange. Quando queste richieste tentano di utilizzare Exchange Impersonation e nella risposta è presente un messaggio di errore, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore:
 

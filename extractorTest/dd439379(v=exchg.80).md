@@ -1,4 +1,4 @@
----
+﻿---
 title: Le versioni del server e del client non sono compatibili
 TOCTitle: Le versioni del server e del client non sono compatibili
 ms:assetid: 8b6b8e13-6973-469d-a13b-983fa365d2be
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439379(v=EXCHG.80)
 ms:contentKeyID: 27341566
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-02-10*
+_**Ultima modifica dell'argomento:** 2011-02-10_
 
 L'analizzatore di Microsoft Exchange tenta di connettersi a Exchange Server tramite RCP su HTTP (Outlook via Internet). Se la versione del client Outlook che sta tentando la connessione non è compatibile o non è supportata da Exchange Server, potrebbe comparire il seguente messaggio di errore.
 

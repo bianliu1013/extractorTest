@@ -1,4 +1,4 @@
----
+﻿---
 title: Controllo di preautenticazione del firewall
 TOCTitle: Controllo di preautenticazione del firewall
 ms:assetid: cba32708-7292-4504-9663-42786a381bdd
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ710173(v=EXCHG.80)
 ms:contentKeyID: 49378893
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-03-21*
+_**Ultima modifica dell'argomento:** 2013-03-21_
 
 Lo strumento Analizzatore connettività remota di Microsoft Exchange (RCA) esegue delle query per stabilire se i record DNS puntano all'endpoint di individuazione automatica. Una volta eseguita la ricerca, lo strumento RCA esegue altre query per verificare se l'autenticazione è stata configurata correttamente. Succede spesso che un dispositivo perimetrale quale Microsoft Threat Management Gateway (TMG) non sia configurato correttamente.
 

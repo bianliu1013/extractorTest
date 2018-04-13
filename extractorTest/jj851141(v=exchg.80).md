@@ -1,4 +1,4 @@
----
+﻿---
 title: Strumento Analizzatore connettività di Microsoft
 TOCTitle: Strumento Analizzatore connettività di Microsoft
 ms:assetid: feba32b0-b7eb-4b1b-ba3d-99e20ba82a8c
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ851141(v=EXCHG.80)
 ms:contentKeyID: 50553811
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-08-22*
+_**Ultima modifica dell'argomento:** 2013-08-22_
 
 Lo strumento Analizzatore connettività di Microsoft è un programma client scaricabile che consente di identificare i problemi di connettività tra i client di posta elettronica e un server su cui è in esecuzione Microsoft Exchange Server. Questo strumento consente anche di identificare problemi di connettività tra i client di posta elettronica e Office 365. Il programma può essere utilizzato dagli utenti di posta elettronica per identificare i problemi più comuni, così come dagli amministratori IT per risolvere i problemi che interessano le distribuzioni di Exchange Server.
 
@@ -27,7 +28,6 @@ Gli articoli in questa sezione fanno riferimento alle specifiche condizioni di e
 
 Nella tabella seguente sono elencati i prerequisiti necessari per eseguire Analizzatore connettività di Microsoft.
 
-###  
 
 <table>
 <colgroup>

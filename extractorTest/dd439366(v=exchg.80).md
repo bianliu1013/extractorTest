@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile trovare una corrispondenza per il nome nell'elenco indirizzi
 TOCTitle: Impossibile trovare una corrispondenza per il nome nell'elenco indirizzi
 ms:assetid: 2268f80c-4f96-4612-85ee-99b5a0322f5d
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439366(v=EXCHG.80)
 ms:contentKeyID: 27341527
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange utilizza le informazioni utente fornite e invia una richiesta NSPI ResolveNames (verifica nome) a Exchange Server (usando RPC su HTTP) per tentare di risolvere l'account utente nella rubrica. Se non vengono trovate elementi corrispondenti, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile risolvere il nome host in DNS
 TOCTitle: Impossibile risolvere il nome host in DNS
 ms:assetid: 2d3fbf36-47f3-4a7b-ab7f-4f426c070991
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439368(v=EXCHG.80)
 ms:contentKeyID: 27341529
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-11-09*
+_**Ultima modifica dell'argomento:** 2011-11-09_
 
 L'Analizzatore Microsoft esegue una ricerca DNS (Domain Name System) per recuperare il record host (A) per il nome host specificato. Se la ricerca in DNS non restituisce un indirizzo IP, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore:
 

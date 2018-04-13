@@ -1,4 +1,4 @@
----
+﻿---
 title: Modalità cache obbligatoria per questa cassetta postale
 TOCTitle: Modalità cache obbligatoria per questa cassetta postale
 ms:assetid: b06310b2-a2ca-4011-b023-de01ad71842f
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439383(v=EXCHG.80)
 ms:contentKeyID: 27341581
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-02-10*
+_**Ultima modifica dell'argomento:** 2011-02-10_
 
 L'analizzatore di Microsoft Exchange interroga Exchange Server e tenta di connettersi all'Archivio informazioni in modalità online. L'Analizzatore connettività remota di Exchange visualizza il seguente avviso quando il server Exchange è stato configurato per forzare le connessioni con la modalità cache.
 

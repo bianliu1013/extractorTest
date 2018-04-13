@@ -1,4 +1,4 @@
----
+﻿---
 title: Autenticazione anonima abilitata per la directory virtuale
 TOCTitle: Autenticazione anonima abilitata per la directory virtuale
 ms:assetid: ed0d4b63-43b8-4a06-bb01-ee7ec1fd9650
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439395(v=EXCHG.80)
 ms:contentKeyID: 27341611
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP anonima dal server remoto all'URL in fase di verifica. Se la richiesta ha esito positivo, ma l'accesso anonimo non è consentito a questa directory virtuale, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore.
 

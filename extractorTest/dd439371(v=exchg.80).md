@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile stabilire un'autenticazione reciproca
 TOCTitle: Impossibile stabilire un'autenticazione reciproca
 ms:assetid: 445d87c5-422f-4249-821b-0c805a058ff4
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439371(v=EXCHG.80)
 ms:contentKeyID: 27341546
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-09-01*
+_**Ultima modifica dell'argomento:** 2009-09-01_
 
 L'analizzatore di Microsoft Exchange negozia una connessione SSL con l'host remoto per recuperare varie proprietà dei certificati X509. L'Analizzatore connettività remota di Exchange esamina l'attributo Subject per identificare il nome di dominio completo (FQDN) o il nome comune assegnato al certificato (ad esempio, mail.contoso.com).
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Connessione RPC su HTTP non consentita
 TOCTitle: Connessione RPC su HTTP non consentita
 ms:assetid: 227f8a97-18cc-41c2-a49c-f62919a8ace9
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439367(v=EXCHG.80)
 ms:contentKeyID: 27341528
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-02-10*
+_**Ultima modifica dell'argomento:** 2011-02-10_
 
 L'analizzatore di Microsoft Exchange tenta di accedere all'Archivio informazioni con RPC su HTTP. Se l'errore restituito dall'Archivio informazioni è ecRpcHttpDisallowed, l'Analizzatore connettività remota di Exchange restituisce il seguente messaggio di errore.
 

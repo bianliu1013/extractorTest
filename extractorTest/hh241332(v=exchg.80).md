@@ -1,4 +1,4 @@
----
+﻿---
 title: Il dominio è un dominio federato ma l'utente <Utente>@contoso.com non è noto a Office 365
 TOCTitle: Il dominio è un dominio federato ma l'utente <Utente>@contoso.com non è noto a Office 365
 ms:assetid: 4c8a571d-d7e8-4316-8772-39b5db91566e
@@ -6,14 +6,15 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241332(v=EXCHG.80)
 ms:contentKeyID: 42607544
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
-# Il dominio è un dominio federato ma l'utente \<Utente\>@contoso.com non è noto a Office 365
+# Il dominio è un dominio federato ma l'utente \<Utente\>\@contoso.com non è noto a Office 365
 
  
 
-***Ultima modifica dell'argomento:** 2011-10-25*
+_**Ultima modifica dell'argomento:** 2011-10-25_
 
 L'Analizzatore connettività remota Microsoft interroga la piattaforma di autenticazione nel cloud per individuare l'area di autenticazione. In alcuni casi, il processo di individuazione dell'area di autenticazione viene eseguito, ma viene comunque visualizzato un messaggio di avviso.
 
@@ -21,7 +22,6 @@ L'individuazione dell'area di autenticazione viene eseguita al fine di generare 
 
 Se il dominio è federato ma l'account utente non è abilitato nell'ambiente Office 365, l'Analizzatore connettività remota visualizza l'avviso seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -33,6 +33,7 @@ Se il dominio è federato ma l'account utente non è abilitato nell'ambiente Off
 </tr>
 </tbody>
 </table>
+
 
 Tale messaggio può essere ignorato.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Message Header Analyzer
 TOCTitle: Message Header Analyzer
 ms:assetid: 671e8f3c-5c12-478e-b091-e693af554321
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dn133083(v=EXCHG.80)
 ms:contentKeyID: 54781692
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-03-29*
+_**Ultima modifica dell'argomento:** 2013-03-29_
 
 Se si è già dovuto risolvere problemi all'interno di un sistema di posta elettronica, indipendentemente dal servizio utilizzato, l'utente potrebbe conoscere le intestazioni del messaggio. Le intestazioni del messaggio contengono informazioni sul percorso di un messaggio, oltre ad altri metadati importanti.
 
@@ -29,18 +30,11 @@ Le intestazioni del messaggio sono più utili quando è possibile leggere la cop
 
 Dopo aver ottenuto le intestazioni del messaggio, incollarle in Message Header Analyzer, quindi fare clic su **Analizza**. L'Analizzatore mostra un'analisi di ogni passaggio compiuto dal messaggio e i dettagli relativi ai messaggi non ricevuti.
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Se un messaggio non è mai giunto a destinazione, sarà necessario provare un metodo diverso per ottenere queste informazioni, ad esempio utilizzando le funzionalità di verifica dei messaggi offerte da Microsoft Exchange Server o Microsoft Exchange Online. Tali funzionalità mantengono un registro di tutti i messaggi gestiti dal sistema. Generalmente, in questa situazione sarà necessario lavorare con il supporto tecnico o l'amministratore di sistema.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> Se un messaggio non è mai giunto a destinazione, sarà necessario provare un metodo diverso per ottenere queste informazioni, ad esempio utilizzando le funzionalità di verifica dei messaggi offerte da Microsoft&nbsp;Exchange Server o Microsoft&nbsp;Exchange Online. Tali funzionalità mantengono un registro di tutti i messaggi gestiti dal sistema. Generalmente, in questa situazione sarà necessario lavorare con il supporto tecnico o l'amministratore di sistema.
+
+
 
 ## Visualizzazione delle intestazioni del messaggio
 

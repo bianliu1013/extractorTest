@@ -1,4 +1,4 @@
----
+﻿---
 title: Il certificato di firma dei token è scaduto
 TOCTitle: Il certificato di firma dei token è scaduto
 ms:assetid: 56574861-b444-487c-a2c9-b33b0e4e2830
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241334(v=EXCHG.80)
 ms:contentKeyID: 42607545
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-06*
+_**Ultima modifica dell'argomento:** 2011-06-06_
 
 L'Analizzatore connettività remota di Microsoft Exchange interroga la piattaforma di autenticazione del cloud per simulare il processo di autenticazione utilizzato da un client per autenticarsi tramite la federazione delle identità. A volte un client Outlook o una connessione di Microsoft Internet Explorer non riesce a causa di un certificato di firma dei token scaduto.
 

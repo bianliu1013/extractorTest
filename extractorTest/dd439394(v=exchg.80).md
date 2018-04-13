@@ -1,4 +1,4 @@
----
+﻿---
 title: Errore di attendibilità del certificato SSL
 TOCTitle: Errore di attendibilità del certificato SSL
 ms:assetid: e455c7b2-3e8e-4a45-83e7-09c55ff3b4ec
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439394(v=EXCHG.80)
 ms:contentKeyID: 27341609
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-21*
+_**Ultima modifica dell'argomento:** 2011-06-21_
 
 L'Analizzatore connettività remota Microsoft interroga l'oggetto Certificato server nel sistema Exchange Server per recuperare varie proprietà dei certificati X509. Per convalidare un determinato certificato X509, l'Analizzatore connettività remota deve considerare attendibile l'autorità di certificazione radice che ha emesso il certificato. Se lo strumento non riesce a seguire la catena dei certificati fino alla radice attendibile, visualizza un errore di certificato non attendibile.
 

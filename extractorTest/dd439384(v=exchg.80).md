@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile trovare intestazione MS-Server-ActiveSync nella risposta OPTIONS
 TOCTitle: Impossibile trovare intestazione MS-Server-ActiveSync nella risposta OPTIONS
 ms:assetid: b13d5173-7491-4238-a513-6a7f2390aee3
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439384(v=EXCHG.80)
 ms:contentKeyID: 27341584
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP con il verbo OPTIONS alla directory virtuale Microsoft-Server-ActiveSync e analizza le intestazioni HTTP nella risposta. Se nella risposta HTTP manca l'intestazione MS-Server-ActiveSync, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore:
 

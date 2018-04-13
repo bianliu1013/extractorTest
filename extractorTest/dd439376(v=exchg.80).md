@@ -1,4 +1,4 @@
----
+﻿---
 title: Il provider del servizio di individuazione automatica di MobileSync ha restituito uno stato di errore nella risposta XML
 TOCTitle: Il provider del servizio di individuazione automatica di MobileSync ha restituito uno stato di errore nella risposta XML
 ms:assetid: 7216a11c-7e3b-42b2-86d3-73a467780eb1
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439376(v=EXCHG.80)
 ms:contentKeyID: 27341556
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-19*
+_**Ultima modifica dell'argomento:** 2009-08-19_
 
 L'analizzatore di Microsoft Exchange invia una richiesta XML/HTTP di individuazione automatica al servizio di individuazione automatica di Exchange utilizzando lo schema del provider di MobileSync per individuare le impostazioni del dispositivo mobile per l'utente specificato. Quando nella risposta è presente un messaggio di errore, l'Analizzatore connettività remota di Exchange visualizza il seguente messaggio di errore:
 

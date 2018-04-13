@@ -1,4 +1,4 @@
----
+﻿---
 title: Problemi relativi al nome principale dell'utente (UPN) durante l'autenticazione
 TOCTitle: Problemi relativi al nome principale dell'utente (UPN) durante l'autenticazione
 ms:assetid: f8ebfa55-7b2c-4bb4-902e-e457dc22b4d9
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241340(v=EXCHG.80)
 ms:contentKeyID: 42607554
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-02-24*
+_**Ultima modifica dell'argomento:** 2012-02-24_
 
 L'Analizzatore connettività remota di Microsoft Exchange interroga la piattaforma di autenticazione del cloud per simulare il processo di autenticazione utilizzato da un client per autenticarsi tramite la federazione delle identità. A volte si verifica un problema che si manifesta in genere con un client Outlook che richiede continuamente l'immissione delle credenziali da parte degli utenti.
 

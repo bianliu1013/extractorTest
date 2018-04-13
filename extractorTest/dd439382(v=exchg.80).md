@@ -1,4 +1,4 @@
----
+﻿---
 title: Errore HTTP 500 restituito a ISA perché il certificato sul server pubblicato non corrisponde al nome specificato nella regola di pubblicazione
 TOCTitle: Errore HTTP 500 restituito a ISA perché il certificato sul server pubblicato non corrisponde al nome specificato nella regola di pubblicazione
 ms:assetid: a19d636c-616d-4843-a48f-7b0dff02f0ef
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439382(v=EXCHG.80)
 ms:contentKeyID: 27341578
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia un richiesta HTTP(s) all'URL richiesto. Se si riceve una risposta HTTP 500 e la pagina riporta il codice di errore -2146893022, l'Analizzatore connettività remota di Microsoft Exchange Server restituisce il seguente errore:
 

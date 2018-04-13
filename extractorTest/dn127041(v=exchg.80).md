@@ -1,4 +1,4 @@
----
+﻿---
 title: "Test MCA: Impossibile accedere a Lync sul dispositivo mobile o sull'app Lync Windows Store"
 TOCTitle: "Test MCA: Impossibile accedere a Lync sul dispositivo mobile o sull'app Lync Windows Store"
 ms:assetid: ed07ef42-dc1c-4103-b855-9b2cdcc1741a
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dn127041(v=EXCHG.80)
 ms:contentKeyID: 53089512
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2013-02-21*
+_**Ultima modifica dell'argomento:** 2013-02-21_
 
 L'analizzatore connettività di Microsoft include il test **Impossibile accedere a Lync sul dispositivo mobile o sull'app Lync Windows Store**.
 

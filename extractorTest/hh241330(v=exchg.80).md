@@ -1,4 +1,4 @@
----
+﻿---
 title: Attendibilità del certificato SSL di ADFS
 TOCTitle: Attendibilità del certificato SSL di ADFS
 ms:assetid: 19604d13-e410-4874-961c-1900ab391d66
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh241330(v=EXCHG.80)
 ms:contentKeyID: 42607542
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-06-06*
+_**Ultima modifica dell'argomento:** 2011-06-06_
 
 L'Analizzatore connettività remota di Microsoft Exchange interroga la piattaforma di autenticazione nel cloud per individuare l'area di autenticazione. Al termine del processo la piattaforma di autenticazione passa al client richiedente l'URL dell'endpoint ADFS necessario per l'autenticazione del client. Tale endpoint è una connessione SSL (Secure Sockets Layer) dotata di certificato. Lo strumento valuta il nome di dominio completo (FQDN) assegnato al certificato (ad esempio, STS.Contoso.com).
 

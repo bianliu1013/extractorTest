@@ -1,4 +1,4 @@
----
+﻿---
 title: Connessioni MAPI non consentite
 TOCTitle: Connessioni MAPI non consentite
 ms:assetid: 443715ec-0a7c-470f-ac15-7433441de3ec
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439370(v=EXCHG.80)
 ms:contentKeyID: 27341543
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2010-06-21*
+_**Ultima modifica dell'argomento:** 2010-06-21_
 
 L'analizzatore di Microsoft Exchange interroga Exchange Server e tenta di connettersi con RPC su HTTP. Se le connessioni MAPI sono disabilitate su Exchange Server 2007 o 2010, potrebbe verificarsi l'errore seguente:
 

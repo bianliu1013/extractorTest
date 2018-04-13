@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossibile associare il nome utente fornito a un nome nell'elenco indirizzi
 TOCTitle: Impossibile associare il nome utente fornito a un nome nell'elenco indirizzi
 ms:assetid: 9a2bf2fb-9bfc-4cc0-adba-24d7730ebd5d
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/JJ863252(v=EXCHG.80)
 ms:contentKeyID: 50553810
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-11-06*
+_**Ultima modifica dell'argomento:** 2012-11-06_
 
 Quando si utilizza la famiglia di prodotti dello strumento Analizzatore connettività di Microsoft al fine di risolvere i problemi di invio o ricezione della posta elettronica su un dispositivo mobile, lo strumento tenta di accedere alla cassetta postale di un utente specificato utilizzando il nome utente fornito. Se non trova il nome utente, lo strumento Analizzatore connettività di Microsoft visualizza il seguente messaggio di errore: “Impossibile associare il nome utente fornito a un nome nell'elenco indirizzi. Verificare che il nome utente utilizzato sia corretto.”
 

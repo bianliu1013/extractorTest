@@ -1,4 +1,4 @@
----
+﻿---
 title: All'indirizzo IP non corrisponde un record PTR nel DNS
 TOCTitle: All'indirizzo IP non corrisponde un record PTR nel DNS
 ms:assetid: 14280637-0bb4-42dd-8ecc-0f6802a4d16d
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ff796197(v=EXCHG.80)
 ms:contentKeyID: 34993392
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,11 +14,10 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-01-25*
+_**Ultima modifica dell'argomento:** 2011-01-25_
 
 Lo strumento Microsoft Exchange Best Practices Analyzer esegue una ricerca DNS inversa (PTR) dell'indirizzo IP in uscita utilizzato per inviare messaggi di posta elettronica su Internet. Se non è possibile trovare una voce DNS per tale indirizzo IP, verrà generato il messaggio di errore seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -29,6 +29,7 @@ Lo strumento Microsoft Exchange Best Practices Analyzer esegue una ricerca DNS i
 </tr>
 </tbody>
 </table>
+
 
 ## Per ulteriori informazioni
 

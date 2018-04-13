@@ -1,4 +1,4 @@
----
+﻿---
 title: Autenticazione reciproca definita dal nome alternativo oggetto
 TOCTitle: Autenticazione reciproca definita dal nome alternativo oggetto
 ms:assetid: a15f34b1-a7bf-4f44-9142-0c5c3174cb0f
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Hh849187(v=EXCHG.80)
 ms:contentKeyID: 45478516
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-02-07*
+_**Ultima modifica dell'argomento:** 2012-02-07_
 
 L'analizzatore connettività remota di Microsoft Exchange negozia una connessione SSL con l'host remoto per recuperare varie proprietà dei certificati X509. Lo strumento valuta l'attributo Oggetto e l'estensione Nome alternativo oggetto per identificare i nomi entità assegnati al certificato (ad esempio, mail.contoso.com).
 

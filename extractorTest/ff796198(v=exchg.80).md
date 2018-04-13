@@ -1,4 +1,4 @@
----
+﻿---
 title: L'indirizzo IP è stato trovato in un elenco di indirizzi bloccati
 TOCTitle: L'indirizzo IP è stato trovato in un elenco di indirizzi bloccati
 ms:assetid: 44b89c4f-e186-4b21-8a92-7edecf5d3c2a
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Ff796198(v=EXCHG.80)
 ms:contentKeyID: 34993393
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,11 +14,10 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2012-03-26*
+_**Ultima modifica dell'argomento:** 2012-03-26_
 
 Microsoft Exchange Best Practices Analyzer Tool confronta l'indirizzo IP in uscita con vari elenchi di indirizzi bloccati in tempo reale, nell'ambito del test SMTP in uscita. Se l'indirizzo IP specificato viene trovato in uno o più elenchi di indirizzi bloccati, viene visualizzato il messaggio di errore seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -29,6 +29,7 @@ Microsoft Exchange Best Practices Analyzer Tool confronta l'indirizzo IP in usci
 </tr>
 </tbody>
 </table>
+
 
 ## Per ulteriori informazioni
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Exchange ActiveSync ha restituito l'errore HTTP 500
 TOCTitle: Exchange ActiveSync ha restituito l'errore HTTP 500
 ms:assetid: 620c5ce8-3595-4658-9a7a-ec76c10e4a69
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439375(v=EXCHG.80)
 ms:contentKeyID: 27341553
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2010-06-25*
+_**Ultima modifica dell'argomento:** 2010-06-25_
 
 L'analizzatore di Microsoft Exchange invia i comandi Exchange ActiveSync per verificare lo stato della connettività di Exchange ActiveSync. Se il comando FolderSync (il primo nella sequenza) restituisce l'errore HTTP 500, l'Analizzatore connettività remota di Microsoft Exchange Server restituisce il seguente messaggio di errore.
 
@@ -27,18 +28,11 @@ In Exchange 2003, per ActiveSync è necessario che l'autenticazione Kerberos fun
 
   - L'autenticazione Windows integrata potrebbe non essere abilitata sulla directory virtuale "/Exchange" del server back-end.  
   - Gli utenti interessati potrebbero essere membri di troppi gruppi e ciò potrebbe far sì che i loro token superino il numero massimo consentito.  
-    <table>
-    <thead>
-    <tr class="header">
-    <th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td>I metodi di autenticazione sulle directory virtuali di Exchange Server devono essere gestiti tramite il Gestore di sistema di Exchange e non Gestione Internet Information Services (IIS).</td>
-    </tr>
-    </tbody>
-    </table>
+
+    > [!NOTA]
+    > I metodi di autenticazione sulle directory virtuali di Exchange Server devono essere gestiti tramite il Gestore di sistema di Exchange e non Gestione Internet Information Services (IIS).
+
+
 
 Per ulteriori informazioni, vedere l'articolo della Microsoft Knowledge Base che illustra come risolvere gli errori HTTP nel server ActiveSync ([http://go.microsoft.com/fwlink/?linkid=3052\&kbid=330463](http://go.microsoft.com/fwlink/?linkid=3052%26kbid=330463)).
 
@@ -55,18 +49,11 @@ Per verificare se l'ereditarietà è disabilitata per l'utente:
 
 Se l'utente è membro di determinati gruppi protetti, ad esempio Domain Administrators, è normale che tale casella di controllo sia deselezionata. Se si verificano problemi con i membri di questi gruppi protetti, verificare le autorizzazioni per l'oggetto AdminSDHolder.
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>È consigliabile evitare di utilizzare per la posta elettronica account appartenenti a gruppi protetti. Se sono necessari i diritti concessi da un gruppo protetto, è consigliabile utilizzare due account utente di Active Directory, ovvero un account utente aggiunto a un gruppo protetto e un account utente utilizzato ai fini della posta elettronica e per tutte le altre operazioni.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> È consigliabile evitare di utilizzare per la posta elettronica account appartenenti a gruppi protetti. Se sono necessari i diritti concessi da un gruppo protetto, è consigliabile utilizzare due account utente di Active Directory, ovvero un account utente aggiunto a un gruppo protetto e un account utente utilizzato ai fini della posta elettronica e per tutte le altre operazioni.
+
+
 
 Per ulteriori informazioni, vedere l'articolo di TechNet Magazine "AdminSDHolder, gruppi protetti e SDPROP" (<http://technet.microsoft.com/it-it/magazine/2009.09.sdadminholder.aspx>).
 

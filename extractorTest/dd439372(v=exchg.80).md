@@ -1,4 +1,4 @@
----
+﻿---
 title: Exchange ActiveSync ha restituito l'errore HTTP 451
 TOCTitle: Exchange ActiveSync ha restituito l'errore HTTP 451
 ms:assetid: 523005ac-9c43-438d-ba56-a7af11975084
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439372(v=EXCHG.80)
 ms:contentKeyID: 27341547
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia un comando Exchange ActiveSync FolderSync all'URL specificato. Se il server invia il codice HTTP 451, l'Analizzatore connettività remota di Microsoft Exchange Server restituisce il seguente errore.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Errore "Accesso negato" generato dal runtime RPC
 TOCTitle: Errore "Accesso negato" generato dal runtime RPC
 ms:assetid: 5aca79d9-1348-4390-ad70-9ff424ed7052
@@ -6,14 +6,15 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439373(v=EXCHG.80)
 ms:contentKeyID: 27341548
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
-# Errore "Accesso negato" generato dal runtime RPC
+# Errore \"Accesso negato\" generato dal runtime RPC
 
  
 
-***Ultima modifica dell'argomento:** 2010-08-26*
+_**Ultima modifica dell'argomento:** 2010-08-26_
 
 Lo strumento Microsoft Exchange Best Practices Analyzer invia un ping RPC a ogni interfaccia RPC utilizzata da Microsoft Office Outlook per connettersi al server cassette postali. Quando la richiesta ping RPC ha esito negativo e indica uno stato RPC 0x5, l'Analizzatore connettività remota di Exchange visualizza il messaggio di errore seguente:
 

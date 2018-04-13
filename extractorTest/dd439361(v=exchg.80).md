@@ -1,4 +1,4 @@
----
+﻿---
 title: Rilevato un metodo di autenticazione non supportato
 TOCTitle: Rilevato un metodo di autenticazione non supportato
 ms:assetid: 1260976c-1b9f-4eae-b805-94fabcc4d39c
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439361(v=EXCHG.80)
 ms:contentKeyID: 27341514
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,7 +14,7 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2009-08-18*
+_**Ultima modifica dell'argomento:** 2009-08-18_
 
 L'analizzatore di Microsoft Exchange invia una richiesta HTTP GET per verificare i metodi di autenticazione del servizio specificato utilizzando l'URL immesso durante la prova. Quando Exchange Server riceve la richiesta, risponde con un elenco di metodi di autenticazione accettati. L'elenco è contenuto nel campo WWW-Authenticate dell'intestazione della risposta. Se in questo elenco è riportato un metodo di autenticazione non supportato, potrebbe essere visualizzato il seguente messaggio di errore:
 
@@ -27,18 +28,11 @@ Questo errore impedisce agli utenti di connettersi al servizio specificato.
 
 Il motivo principale per cui viene segnalato questo errore è quando si esegue la verifica Exchange ActiveSync e Autenticazione integrata di Windows è annunciata dal server. Autenticazione integrata di Windows non è un metodo di autenticazione supportato per Exchange ActiveSync e può impedire ai dispositivi Windows Mobile precedenti a Windows Mobile 6.0 di connettersi.
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Se si utilizza ISA Server per eseguire la preautenticazione, Autenticazione integrata potrebbe essere abilitata su Listener Web. Se non si prevede di supportare dispositivi precedenti a Windows Mobile 6.0 (o se non si riscontrano problemi), questo errore può essere ignorato.</td>
-</tr>
-</tbody>
-</table>
+
+> [!NOTA]
+> Se si utilizza ISA Server per eseguire la preautenticazione, Autenticazione integrata potrebbe essere abilitata su Listener Web. Se non si prevede di supportare dispositivi precedenti a Windows Mobile 6.0 (o se non si riscontrano problemi), questo errore può essere ignorato.
+
+
 
 **Per correggere questo errore**
 

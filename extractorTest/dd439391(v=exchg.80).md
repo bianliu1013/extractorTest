@@ -1,4 +1,4 @@
----
+﻿---
 title: Crittografia RPC obbligatoria
 TOCTitle: Crittografia RPC obbligatoria
 ms:assetid: cf3a5af1-52ae-4509-8793-84e98f81ec22
@@ -6,6 +6,7 @@ ms:mtpsurl: https://technet.microsoft.com/it-it/library/Dd439391(v=EXCHG.80)
 ms:contentKeyID: 27341599
 ms.date: 10/25/2013
 mtps_version: v=EXCHG.80
+_tocRel: dd439364(v=exchg.80)/toc.json
 ms.translationtype: HT
 ---
 
@@ -13,11 +14,10 @@ ms.translationtype: HT
 
  
 
-***Ultima modifica dell'argomento:** 2011-05-19*
+_**Ultima modifica dell'argomento:** 2011-05-19_
 
 Lo strumento Microsoft Exchange Best Practices Analyzer interroga il server che esegue Exchange Server e tenta di effettuare l'accesso tramite RPC su HTTP. Se in Exchange Server è richiesta la crittografia RPC, lo strumento potrebbe visualizzare l'avviso seguente:
 
-###  
 
 <table>
 <colgroup>
@@ -30,9 +30,9 @@ Lo strumento Microsoft Exchange Best Practices Analyzer interroga il server che 
 </tbody>
 </table>
 
+
 Per impostazione predefinita, Microsoft Office Outlook 2007 è configurato con l'opzione **Crittografa dati trasferiti tra Microsoft Office Outlook e Microsoft Exchange Server** abilitata. Tuttavia, nella configurazione predefinita di Microsoft Outlook 2003 tale opzione non è abilitata. Se si utilizza il cmdlet **Set-MailboxServer** per forzare le connessioni crittografate nelle cassette postali degli utenti e nel client Outlook l'impostazione **Crittografa dati trasferiti tra Microsoft Office Outlook e Microsoft Exchange Server** è disattivata, gli utenti che tentano di connettersi alle proprie cassette postali in Exchange riceveranno il messaggio seguente.
 
-###  
 
 <table>
 <colgroup>
@@ -45,9 +45,9 @@ Per impostazione predefinita, Microsoft Office Outlook 2007 è configurato con l
 </tbody>
 </table>
 
+
 Gli utenti di Outlook 2003 che si connettono a Exchange possono ricevere uno dei messaggi di errore seguenti:
 
-###  
 
 <table>
 <colgroup>
@@ -60,7 +60,7 @@ Gli utenti di Outlook 2003 che si connettono a Exchange possono ricevere uno dei
 </tbody>
 </table>
 
-###  
+
 
 <table>
 <colgroup>
@@ -73,7 +73,7 @@ Gli utenti di Outlook 2003 che si connettono a Exchange possono ricevere uno dei
 </tbody>
 </table>
 
-###  
+
 
 <table>
 <colgroup>
@@ -86,7 +86,7 @@ Gli utenti di Outlook 2003 che si connettono a Exchange possono ricevere uno dei
 </tbody>
 </table>
 
-###  
+
 
 <table>
 <colgroup>
@@ -99,7 +99,7 @@ Gli utenti di Outlook 2003 che si connettono a Exchange possono ricevere uno dei
 </tbody>
 </table>
 
-###  
+
 
 <table>
 <colgroup>
@@ -111,6 +111,7 @@ Gli utenti di Outlook 2003 che si connettono a Exchange possono ricevere uno dei
 </tr>
 </tbody>
 </table>
+
 
 Quando Outlook 2003 è configurato in modo da utilizzare la modalità cache di Exchange, in Outlook non viene visualizzato alcun messaggio di errore, ma l'applicazione viene avviata in modalità disconnessa.
 
@@ -140,18 +141,10 @@ Per risolvere questo problema, eseguire una o più delle operazioni seguenti:
 
   - In alternativa, è possibile rimuovere il requisito di Exchange per la crittografia delle comunicazioni RPC. A tale scopo, seguire questa procedura.  
     
-    <table>
-    <thead>
-    <tr class="header">
-    <th><img src="images/Dd439361.note(EXCHG.80).gif" title="note" alt="note" />Nota:</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td><strong>Nota</strong> In Exchange Server 2010 Service Pack 1 (SP1) il requisito per la crittografia delle comunicazioni RPC è disattivato per impostazione predefinita.</td>
-    </tr>
-    </tbody>
-    </table>
+
+    > [!NOTA]
+    > <STRONG>Nota</STRONG> In Exchange Server 2010 Service Pack 1 (SP1) il requisito per la crittografia delle comunicazioni RPC è disattivato per impostazione predefinita.
+
     
       - Per un server cassette postali Exchange 2007 eseguire il comando indicato di seguito in Exchange Management Shell:  
         
