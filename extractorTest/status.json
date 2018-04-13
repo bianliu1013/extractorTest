@@ -1,0 +1,16 @@
+{
+  "SourceTopicCount": "78",
+  "ExtractedTopics": "77",
+  "RootTocNode": "https://technet.microsoft.com/it-it/library/dd439364(v=exchg.80).aspx",
+  "ProductFamilyVersion": null,
+  "PhantomTopicsSkipped": "1",
+  "BumperTopicsSkipped": "0",
+  "EstimatedTopicCount": "77",
+  "FallbackLinksSkipped": "0",
+  "ErrorCount": "0",
+  "NodeCount": "77",
+  "RedirectionFile": "D:\\LibraryMigration\\archive-test\\temp5\\redirection.json",
+  "ReportFile": "D:\\LibraryMigration\\archive-test\\temp5\\source-target-url-list.csv",
+  "ShortIdFriendlyNameMappingFile": "",
+  "BrokenAnchorMDs": "dn133083(v=exchg.80).md"
+}

@@ -1,0 +1,155 @@
+- name: Strumento Analizzatore connettività remota di Exchange
+  href: dd439364(v=exchg.80).md
+  items:
+  - name: Strumento Analizzatore connettività di Microsoft
+    href: jj851141(v=exchg.80).md
+  - name: Errore Server RPC non disponibile generato dal runtime RPC
+    href: dd439392(v=exchg.80).md
+  - name: Impossibile trovare intestazione MS-Server-ActiveSync nella risposta OPTIONS
+    href: dd439384(v=exchg.80).md
+  - name: Impossibile negoziare una versione Airsync appropriata con il server
+    href: dd439385(v=exchg.80).md
+  - name: È stata ricevuta una risposta di reindirizzamento imprevista
+    href: dd439362(v=exchg.80).md
+  - name: Ricevuta risposta HTTP positiva diversa da risposta di reindirizzamento
+    href: dd439380(v=exchg.80).md
+  - name: Impossibile trovare il record posizione servizio (SRV) di individuazione automatica nel DNS
+    href: dd439398(v=exchg.80).md
+  - name: Il provider del servizio di individuazione automatica di MobileSync ha restituito uno stato di errore nella risposta XML
+    href: dd439376(v=exchg.80).md
+  - name: Il provider del servizio di individuazione automatica di Outlook ha restituito uno stato di errore nella risposta XML
+    href: dd439388(v=exchg.80).md
+  - name: Elemento EXPR mancante nella risposta XML del servizio di individuazione automatica
+    href: dd439390(v=exchg.80).md
+  - name: Elemento AuthPackage mancante nella risposta XML del servizio di individuazione automatica
+    href: dd439374(v=exchg.80).md
+  - name: Autenticazione anonima abilitata per la directory virtuale
+    href: dd439395(v=exchg.80).md
+  - name: Nessun metodo di autenticazione supportato trovato nella risposta
+    href: dd439397(v=exchg.80).md
+  - name: Rilevato un metodo di autenticazione non supportato
+    href: dd439361(v=exchg.80).md
+  - name: Impossibile trovare tutti i metodi di autenticazione richiesti
+    href: dd439378(v=exchg.80).md
+  - name: Impossibile risolvere il nome host in DNS
+    href: dd439368(v=exchg.80).md
+  - name: Nome certificato SSL non corrispondente
+    href: dd439393(v=exchg.80).md
+  - name: Errore di attendibilità del certificato SSL
+    href: dd439394(v=exchg.80).md
+  - name: Intestazione prevista del servizio non ricevuta durante la connessione
+    href: dd439389(v=exchg.80).md
+  - name: Si è verificato un errore di rete durante la comunicazione con l'host remoto
+    href: dd439386(v=exchg.80).md
+  - name: Impossibile trovare una corrispondenza per il nome nell'elenco indirizzi
+    href: dd439366(v=exchg.80).md
+  - name: Impossibile stabilire un'autenticazione reciproca
+    href: dd439371(v=exchg.80).md
+  - name: Crittografia RPC obbligatoria
+    href: dd439391(v=exchg.80).md
+  - name: Le versioni del server e del client non sono compatibili
+    href: dd439379(v=exchg.80).md
+  - name: Modalità cache obbligatoria per questa cassetta postale
+    href: dd439383(v=exchg.80).md
+  - name: Connessione RPC su HTTP non consentita
+    href: dd439367(v=exchg.80).md
+  - name: Connessioni MAPI non consentite
+    href: dd439370(v=exchg.80).md
+  - name: Nessun record MX trovato per il dominio SMTP specificato
+    href: dd439363(v=exchg.80).md
+  - name: Inoltro aperto rilevato
+    href: dd439381(v=exchg.80).md
+  - name: Ricevuto errore HTTP 403 perché il server ISA ha negato l'URL specificato
+    href: dd439387(v=exchg.80).md
+  - name: È stata restituita una risposta HTTP 403.4 in quanto si richiedeva SSL sulla directory virtuale
+    href: dd439365(v=exchg.80).md
+  - name: Errore HTTP 500 restituito a ISA perché il certificato sul server pubblicato non corrisponde al nome specificato nella regola di pubblicazione
+    href: dd439382(v=exchg.80).md
+  - name: Errore "Accesso negato" generato dal runtime RPC
+    href: dd439373(v=exchg.80).md
+  - name: Exchange ActiveSync ha restituito l'errore HTTP 500
+    href: dd439375(v=exchg.80).md
+  - name: Exchange ActiveSync ha restituito l'errore HTTP 451
+    href: dd439372(v=exchg.80).md
+  - name: Il formato dell'URL esterno di ActiveSync non è quello previsto
+    href: dd439369(v=exchg.80).md
+  - name: Certificati radice di Windows Mobile
+    href: ee410525(v=exchg.80).md
+  - name: Certificati intermedi mancanti nella catena
+    href: ee410524(v=exchg.80).md
+  - name: L'account Act As non ha le autorizzazioni per creare gli elementi in questa cartella
+    href: ee410527(v=exchg.80).md
+  - name: L'account Act As potrebbe non avere le autorizzazioni per eliminare gli elementi in questa cartella
+    href: ee410522(v=exchg.80).md
+  - name: L'account Act As potrebbe non avere le autorizzazioni per accedere a questa cartella
+    href: ee410521(v=exchg.80).md
+  - name: L'account del servizio specificato non dispone delle autorizzazioni di rappresentazione sul server Accesso client
+    href: ee410526(v=exchg.80).md
+  - name: L'account del servizio specificato non dispone delle autorizzazioni di rappresentazione sull'account Act As specificato
+    href: ee410523(v=exchg.80).md
+  - name: Risposta XML non valida, impossibile recuperare le impostazioni di disponibilità o fuori sede
+    href: ee410520(v=exchg.80).md
+  - name: All'indirizzo IP non corrisponde un record PTR nel DNS
+    href: ff796197(v=exchg.80).md
+  - name: L'indirizzo IP è stato trovato in un elenco di indirizzi bloccati
+    href: ff796198(v=exchg.80).md
+  - name: Lo spazio dei nomi non è federato
+    href: hh241328(v=exchg.80).md
+  - name: Il dominio è un dominio federato ma l'utente <Utente>@contoso.com non è noto a Office 365
+    href: hh241332(v=exchg.80).md
+  - name: Impossibile risolvere il nome dell'endpoint HTTP di Active Directory Federation Services (ADFS)
+    href: hh241336(v=exchg.80).md
+  - name: Il server Active Directory Federation Services (ADFS) è inattivo o irraggiungibile
+    href: hh241329(v=exchg.80).md
+  - name: Il nome del certificato SSL di ADFS non corrisponde
+    href: hh241335(v=exchg.80).md
+  - name: Attendibilità del certificato SSL di ADFS
+    href: hh241330(v=exchg.80).md
+  - name: Il certificato SSL di ADFS è scaduto
+    href: hh241338(v=exchg.80).md
+  - name: Il certificato di firma dei token è scaduto
+    href: hh241334(v=exchg.80).md
+  - name: Il token ADFS non viene accettato dalla piattaforma di autenticazione (per la versione successiva di RCA)
+    href: hh241331(v=exchg.80).md
+  - name: Nome utente sconosciuto o password errata
+    href: hh241339(v=exchg.80).md
+  - name: Problemi generali che possono verificarsi per uno o tutti gli utenti
+    href: hh241337(v=exchg.80).md
+  - name: Problemi relativi al nome principale dell'utente (UPN) durante l'autenticazione
+    href: hh241340(v=exchg.80).md
+  - name: You must uninstall all interim updates before you install Exchange Server 2010 Service Pack 2
+    href: hh696885(v=exchg.80).md
+  - name: Elemento EXCH mancante nella risposta XML del servizio di individuazione automatica
+    href: hh849186(v=exchg.80).md
+  - name: Autenticazione reciproca definita dal nome alternativo oggetto
+    href: hh849187(v=exchg.80).md
+  - name: Errore con l'ora di sistema
+    href: jj710174(v=exchg.80).md
+  - name: Controllo di preautenticazione del firewall
+    href: jj710173(v=exchg.80).md
+  - name: Endpoint EWS con puntamento a un server legacy locale
+    href: jj710172(v=exchg.80).md
+  - name: "Errore durante l'esecuzione dello strumento Analizzatore connettività remota di Exchange per testare la connettività a Office 365: \"Per l'autenticazione a Office 365, è necessario immettere il proprio account Microsoft\""
+    href: jj863254(v=exchg.80).md
+  - name: Impossibile associare il nome utente fornito a un nome nell'elenco indirizzi
+    href: jj863252(v=exchg.80).md
+  - name: Il server di posta elettronica non è disponibile
+    href: jj863253(v=exchg.80).md
+  - name: 'Test MCA: Impossibile accedere con Office Outlook'
+    href: jj863256(v=exchg.80).md
+  - name: 'Test MCA: Impossibile inviare o ricevere posta elettronica sul dispositivo mobile'
+    href: jj863255(v=exchg.80).md
+  - name: Ulteriori risorse della guida per MCA
+    href: jj863251(v=exchg.80).md
+  - name: Il comando OPTIONS di ActiveSync ha restituito l'errore HTTP 401
+    href: jj715719(v=exchg.80).md
+  - name: Exchange ActiveSync ha restituito l'errore HTTP 503
+    href: jj983722(v=exchg.80).md
+  - name: 'Test MCA: Impossibile visualizzare le informazioni sulla disponibilità di un altro utente'
+    href: dn127039(v=exchg.80).md
+  - name: 'Test MCA: Impossibile inviare o ricevere la posta elettronica da Outlook (solo Office 365)'
+    href: dn127040(v=exchg.80).md
+  - name: "Test MCA: Impossibile accedere a Lync sul dispositivo mobile o sull'app Lync Windows Store"
+    href: dn127041(v=exchg.80).md
+  - name: Message Header Analyzer
+    href: dn133083(v=exchg.80).md

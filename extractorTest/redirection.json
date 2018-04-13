@@ -1,0 +1,774 @@
+{
+  "setContentRemovalItems": [
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj851141",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj851141(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439392",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439392(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439384",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439384(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439385",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439385(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439362",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439362(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439380",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439380(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439398",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439398(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439376",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439376(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439388",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439388(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439390",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439390(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439374",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439374(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439395",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439395(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439397",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439397(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439361",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439361(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439378",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439378(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439368",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439368(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439393",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439393(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439394",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439394(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439389",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439389(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439386",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439386(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439366",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439366(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439371",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439371(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439391",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439391(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439379",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439379(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439383",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439383(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439367",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439367(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439370",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439370(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439363",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439363(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439381",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439381(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439387",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439387(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439365",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439365(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439382",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439382(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439373",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439373(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439375",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439375(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439372",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439372(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439369",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439369(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410525",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410525(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410524",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410524(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410527",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410527(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410522",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410522(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410521",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410521(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410526",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410526(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410523",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410523(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ee410520",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ee410520(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ff796197",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ff796197(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "ff796198",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/ff796198(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241328",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241328(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241332",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241332(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241336",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241336(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241329",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241329(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241335",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241335(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241330",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241330(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241338",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241338(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241334",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241334(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241331",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241331(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241339",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241339(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241337",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241337(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh241340",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh241340(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh696885",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh696885(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh849186",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh849186(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "hh849187",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/hh849187(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj710174",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj710174(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj710173",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj710173(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj710172",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj710172(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj863254",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj863254(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj863252",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj863252(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj863253",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj863253(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj863256",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj863256(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj863255",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj863255(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj863251",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj863251(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj715719",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj715719(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "jj983722",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/jj983722(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dn127039",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dn127039(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dn127040",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dn127040(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dn127041",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dn127041(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dn133083",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dn133083(v=exchg.80)"
+    },
+    {
+      "redirectPatternId": 2,
+      "contentId": "dd439364",
+      "locale": "it-it",
+      "productFamily": "exchg",
+      "productVersion": "80",
+      "contentRemovalStatus": "PaveOver",
+      "modifiedBy": "Archiveddocs",
+      "redirectUrl": "https://docs.microsoft.com/it-it/previous-versions/jinhwatest-archive/temp5/dd439364(v=exchg.80)"
+    }
+  ]
+}
